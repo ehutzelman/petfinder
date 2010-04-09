@@ -1,6 +1,12 @@
-= petfinder
+= Petfinder
 
-Description goes here.
+Ruby gem wrapper for the Petfinder API.
+
+== Usage
+
+== TODO
+
+* Implement security token when Petfinder requires it
 
 == Note on Patches/Pull Requests
  

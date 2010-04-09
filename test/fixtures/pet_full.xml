@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<petfinder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.petfinder.com/schemas/0.9/petfinder.xsd">
+  <header>
+    <version>0.1</version>
+    <timestamp>2010-04-09T06:14:44Z</timestamp>
+    <status>
+      <code>100</code>
+      <message/>
+    </status>
+  </header>
+  <pet>
+    <id>10141994</id>
+    <shelterId>IL173</shelterId>
+    <shelterPetId>0A10503371</shelterPetId>
+    <name>Charlie</name>
+    <animal>Cat</animal>
+    <breeds>
+      <breed>Domestic Short Hair-black</breed>
+    </breeds>
+    <mix>no</mix>
+    <age>Adult</age>
+    <sex>M</sex>
+    <size>M</size>
+    <options>
+      <option>hasShots</option>
+      <option>altered</option>
+    </options>
+    <description><![CDATA[Charlie is an outgoing cat who just loves to be around all the attention.  He runs around and chases anything that moves.  We think he'd be great in an active household!
+<br/><a href="http://www.petfinder.com/petdetail/10141994">View this pet on Petfinder.com</a>
+]]></description>
+    <lastUpdate>2010-04-07T13:43:33Z</lastUpdate>
+    <status>A</status>
+    <media>
+      <photos>
+        <photo id="1" size="x">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-1-x.jpg</photo>
+        <photo id="1" size="t">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-1-t.jpg</photo>
+        <photo id="1" size="pn">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-1-pn.jpg</photo>
+        <photo id="1" size="pnt">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-1-pnt.jpg</photo>
+        <photo id="1" size="fpm">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-1-fpm.jpg</photo>
+        <photo id="2" size="x">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-2-x.jpg</photo>
+        <photo id="2" size="t">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-2-t.jpg</photo>
+        <photo id="2" size="pn">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-2-pn.jpg</photo>
+        <photo id="2" size="pnt">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-2-pnt.jpg</photo>
+        <photo id="2" size="fpm">http://photocache.petfinder.com/fotos/IL173/IL173.10141994-2-fpm.jpg</photo>
+      </photos>
+    </media>
+  </pet>
+</petfinder>

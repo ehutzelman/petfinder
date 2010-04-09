@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<petfinder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.petfinder.com/schemas/0.9/petfinder.xsd">
+  <header>
+    <version>0.1</version>
+    <timestamp>2010-04-09T06:34:37Z</timestamp>
+    <status>
+      <code>100</code>
+      <message/>
+    </status>
+  </header>
+  <breeds animal="horse">
+    <breed>Appaloosa</breed>
+    <breed>Arabian</breed>
+    <breed>Belgian</breed>
+    <breed>Clydesdale</breed>
+    <breed>Curly Horse</breed>
+    <breed>Donkey/Mule</breed>
+    <breed>Draft</breed>
+    <breed>Gaited</breed>
+    <breed>Grade</breed>
+    <breed>Lipizzan</breed>
+    <breed>Miniature Horse</breed>
+    <breed>Missouri Foxtrotter</breed>
+    <breed>Morgan</breed>
+    <breed>Mustang</breed>
+    <breed>Paint/Pinto</breed>
+    <breed>Palomino</breed>
+    <breed>Paso Fino</breed>
+    <breed>Percheron</breed>
+    <breed>Peruvian Paso</breed>
+    <breed>Pony</breed>
+    <breed>Quarterhorse</breed>
+    <breed>Saddlebred</breed>
+    <breed>Shetland Pony</breed>
+    <breed>Standardbred</breed>
+    <breed>Tennessee Walker</breed>
+    <breed>Thoroughbred</breed>
+    <breed>Warmblood</breed>
+  </breeds>
+</petfinder>
