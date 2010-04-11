@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'httparty'
 require 'hashie'
+require 'digest/md5'
 
 module Petfinder
   

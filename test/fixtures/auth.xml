@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<petfinder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.petfinder.com/schemas/0.9/petfinder.xsd">
+  <header>
+    <version>0.1</version>
+    <timestamp>2010-04-10T22:29:07Z</timestamp>
+    <status>
+      <code>100</code>
+      <message/>
+    </status>
+  </header>
+  <auth>
+    <key>83bd1e190a9d09ad8041d2f087684753</key>
+    <token>39038a000f404335d90bab019c0c7e2d</token>
+    <expires>1270942147</expires>
+    <expiresString>2010-04-10T23:29:07Z</expiresString>
+  </auth>
+</petfinder>
