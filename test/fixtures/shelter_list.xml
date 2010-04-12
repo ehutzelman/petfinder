@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<petfinder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.petfinder.com/schemas/0.9/petfinder.xsd">
+  <header>
+    <version>0.1</version>
+    <timestamp>2010-04-12T04:46:40Z</timestamp>
+    <status>
+      <code>100</code>
+      <message/>
+    </status>
+  </header>
+  <lastOffset>25</lastOffset>
+  <shelters>
+    <shelter>
+      <id>TX1261</id>
+      <name>Pup Squad Animal Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1372</id>
+      <name>Frisky Paws Rescue, Inc.</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX920</id>
+      <name>Great Pyrenees Rescue Society</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>Please email!</phone>
+    </shelter>
+    <shelter>
+      <id>TX1356</id>
+      <name>Lucky Dog Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX946</id>
+      <name>Scouts Honor Rescue Inc.</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1215</id>
+      <name>Treat Them Right </name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1257</id>
+      <name>Shaggy Dog Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX617</id>
+      <name>American Fox Terrier Rescue - Southwest</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1086</id>
+      <name>Red Collar Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1248</id>
+      <name>Lucky Leash Rescue, Inc</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1283</id>
+      <name>Texas Collie Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>713-545-7408</phone>
+    </shelter>
+    <shelter>
+      <id>TX190</id>
+      <name>**Texas Great Pyrenees Rescue, Inc.**</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>877-746-9508 Free</phone>
+    </shelter>
+    <shelter>
+      <id>TX1121</id>
+      <name>CANINE COMPASSION</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>caninecompassion@yahoo.co</phone>
+    </shelter>
+    <shelter>
+      <id>TX1051</id>
+      <name>Basset Buddies Rescue of Texas</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>(281)-303-5496</phone>
+    </shelter>
+    <shelter>
+      <id>TX154</id>
+      <name>Homeless Pet Placement League</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>(713) 862-7387</phone>
+    </shelter>
+    <shelter>
+      <id>TX826</id>
+      <name>Bunny Buddies</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>713-822-8256</phone>
+    </shelter>
+    <shelter>
+      <id>TX170</id>
+      <name>HOPE (Homeless &amp; Orphaned Pets Endeavor)</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>713-622-4673</phone>
+    </shelter>
+    <shelter>
+      <id>TX1219</id>
+      <name>Houston Boxer Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>832-582-2166</phone>
+    </shelter>
+    <shelter>
+      <id>TX169</id>
+      <name>Lone Star Shih Tzu and Lhasa Apso Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>www.shihtzu-rescue.com</phone>
+    </shelter>
+    <shelter>
+      <id>TX379</id>
+      <name>Lone Star Boxer Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>713-464-1381</phone>
+    </shelter>
+    <shelter>
+      <id>TX1352</id>
+      <name>Paws Haven Rescue, Inc.</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1410</id>
+      <name>Sisyphus Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX1359</id>
+      <name>Adopt A Rescued Friend</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone>713-854-1216</phone>
+    </shelter>
+    <shelter>
+      <id>TX1259</id>
+      <name>Dakota Rescue</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+    <shelter>
+      <id>TX917</id>
+      <name>Texas Old English Sheepdog Rescue, Inc.</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <phone/>
+    </shelter>
+  </shelters>
+</petfinder>

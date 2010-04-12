@@ -12,10 +12,10 @@ module Petfinder
       self.class.default_params :key => api_key
     end
     
-    # valid animal types: barnyard, bird, cat, dog, horse, pig, reptile, smallfurry
+    # Valid animal types: barnyard, bird, cat, dog, horse, pig, reptile, smallfurry
     def breeds(animal_type)
       response = perform_get("/breed.list", :query => {:animal => animal_type})
-      response.breeds.breed.class == Array ? response.breeds.breed : [response.breeds.breed]
+      return_as_array(response.breeds.breed)
     end    
 
     def pet(id)
@@ -23,15 +23,43 @@ module Petfinder
       response.pet
     end
     
-    def random_pet
+    # Options available: animal, breed, size, sex, location, shelterid 
+    def random_pet(options = {})
       response = perform_get("/pet.getRandom", :query => {:output => 'full'})
       response.pet
     end
     
+    # Options available: breed, size, sex, age, offset, count
     def find_pets(animal_type, location, options = {})
       query = options.merge(:animal => animal_type, :location => location)
       response = perform_get("/pet.find", :query => query)
-      response.pets.pet.class == Array ? response.pets.pet : [response.pets.pet]
+      return_as_array(response.pets.pet)
+    end
+
+    def shelter(id)
+      response = perform_get("/shelter.get", :query => {:id => id})
+      response.shelter      
+    end
+    
+    # Options available: name, offset, count
+    def find_shelters(location, options = {})
+      query = options.merge(:location => location)
+      response = perform_get("/shelter.find", :query => query)
+      return_as_array(response.shelters.shelter)
+    end
+
+    # Options available: offset, count    
+    def find_shelters_by_breed(animal_type, breed, options = {})
+      query = options.merge(:animal => animal_type, :breed => breed)
+      response = perform_get("/shelter.listByBreed", :query => query)
+      return_as_array(response.shelters.shelter)
+    end
+    
+    # Options available: status, offset, count
+    def shelter_pets(id, options = {})
+      query = options.merge(:id => id)
+      response = perform_get("/shelter.getPets", :query => query)
+      return_as_array(response.pets.pet)
     end
     
     def token
@@ -40,6 +68,10 @@ module Petfinder
     end
         
     private
+    
+    def return_as_array(object)
+      object.class == Array ? object : [object]
+    end
     
     def digest_key_and_secret      
       raise "API secret is required" if @api_secret.blank?

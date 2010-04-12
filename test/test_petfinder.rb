@@ -31,6 +31,30 @@ class TestPetfinder < Test::Unit::TestCase
       assert_equal 'Appaloosa', breeds.first
     end
 
+    should "get a specific shelter by id" do
+      stub_get("http://api.petfinder.com/shelter.get?key=1234567&id=123", "shelter.xml")
+      shelter = @client.shelter(123)
+      assert_equal 'Lucky Dog Rescue', shelter.name      
+    end
+
+    should "find shelters matching a query" do
+      stub_get("http://api.petfinder.com/shelter.find?key=1234567&location=77007", "shelter_list.xml")
+      shelters = @client.find_shelters('77007')
+      assert_equal 'Pup Squad Animal Rescue', shelters.first.name
+    end
+
+    should "find shelters matching a breed" do
+      stub_get("http://api.petfinder.com/shelter.listByBreed?key=1234567&animal=horse&breed=arabian", "shelter_list.xml")
+      shelters = @client.find_shelters_by_breed('horse', 'arabian')
+      assert_equal 'Pup Squad Animal Rescue', shelters.first.name
+    end
+    
+    should "get the list of pets available for the given shelter" do
+      stub_get("http://api.petfinder.com/shelter.getPets?key=1234567&id=123", "pet_list.xml")
+      pets = @client.shelter_pets(123)
+      assert_equal 'Petey', pets.first.name      
+    end
+    
     should "get an authorization token" do
       digest = @client.send(:digest_key_and_secret)
       stub_get("http://api.petfinder.com/auth.getToken?key=1234567&sig=#{digest}", "auth.xml")

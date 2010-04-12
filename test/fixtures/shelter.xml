@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<petfinder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.petfinder.com/schemas/0.9/petfinder.xsd">
+  <header>
+    <version>0.1</version>
+    <timestamp>2010-04-12T04:51:40Z</timestamp>
+    <status>
+      <code>100</code>
+      <message/>
+    </status>
+  </header>
+  <shelter>
+    <id>TX1356</id>
+    <name>Lucky Dog Rescue</name>
+    <address1>P.O. Box 56512</address1>
+    <address2/>
+    <city>Houston</city>
+    <state>TX</state>
+    <zip>77019</zip>
+    <country/>
+    <latitude>29.75239944</latitude>
+    <longitude>-95.40170288</longitude>
+    <phone/>
+    <fax/>
+    <email>millicentgerdes@gmail.com</email>
+  </shelter>
+</petfinder>
