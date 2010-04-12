@@ -4,7 +4,7 @@ Ruby gem wrapper for the {Petfinder API}[http://www.petfinder.com/developers/api
 
 == Installation
 
-	sudo gem install petfinder
+ sudo gem install petfinder
 
 == Get your API key
 

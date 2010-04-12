@@ -14,8 +14,8 @@ begin
     gem.add_dependency('hashie', '>= 0.1.3')
     gem.add_dependency('httparty', '>= 0.5.0')
     
-    gem.add_development_dependency "shoulda", ">= 0"
-    gem.add_development_dependency 'fakeweb', '>= 0'
+    gem.add_development_dependency "shoulda", ">= 2.10.1"
+    gem.add_development_dependency 'fakeweb', '>= 1.2.5'
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
