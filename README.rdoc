@@ -24,15 +24,18 @@ Get your Petfinder API key at: http://www.petfinder.com/developers/api-key
   end
   petfinder = Petfinder::Client.new
     
-=== Examples
+== Examples
 
 ==== Return a list of dogs in the "90210" zip code
 
   pets = petfinder.find_pets('dog', '90210')
+  pets.count
+  # => "25"
+  
   pets.first.name
   # => "Petey"
 
-  pets.shelterid
+  pets.first.shelterid
   # => "CA123"
 
 ==== Return information about the shelter with id "CA123"
