@@ -1,12 +1,20 @@
 = Petfinder
 
-Ruby gem wrapper for the Petfinder API.
+Ruby gem wrapper for the {Petfinder API}[http://www.petfinder.com/developers/api-docs].
+
+== Installation
+
+	sudo gem install petfinder
+
+== Get your API key
+
+Get your Petfinder API key at: http://www.petfinder.com/developers/api-key
 
 == Usage
 
 == TODO
 
-* Implement security token when Petfinder requires it
+* Implement use of security token when Petfinder requires it
 
 == Note on Patches/Pull Requests
  
