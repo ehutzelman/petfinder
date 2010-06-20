@@ -1,19 +1,16 @@
-require 'rubygems'
-require 'test/unit'
-require 'shoulda'
+$LOAD_PATH.unshift(File.dirname(__FILE__))
+$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
+require 'petfinder'
+require 'spec'
+require 'spec/autorun'
 require 'fakeweb'
 
-begin require 'redgreen'; rescue LoadError; end
-
-$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
-$LOAD_PATH.unshift(File.dirname(__FILE__))
-require 'petfinder'
-
-class Test::Unit::TestCase
+Spec::Runner.configure do |config|
+  
 end
 
 def fixture_file(filename)
-  return '' if filename == ''
+  return '' if filename.blank?
   file_path = File.expand_path(File.dirname(__FILE__) + '/fixtures/' + filename)
   File.read(file_path)
 end
