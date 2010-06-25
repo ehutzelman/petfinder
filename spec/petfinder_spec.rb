@@ -8,7 +8,7 @@ describe Petfinder::Client do
   it "should get a random pet" do
     stub_get("http://api.petfinder.com/pet.getRandom?key=1234567&output=full", "pet.xml")
     pet = @client.random_pet
-    pet.name.should == 'Charliex'
+    pet.name.should == 'Charlie'
   end
   
   it "should get a specific pet by id" do
