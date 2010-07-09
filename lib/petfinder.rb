@@ -1,6 +1,5 @@
-require 'rubygems'
 require 'httparty'
-require 'hashie'
+require 'happymapper'
 require 'digest/md5'
 
 module Petfinder
@@ -19,4 +18,9 @@ module Petfinder
 end
 
 directory = File.expand_path(File.dirname(__FILE__))
+
 require File.join(directory, 'petfinder', 'client')
+require File.join(directory, 'petfinder', 'pet')
+require File.join(directory, 'petfinder', 'breeds')
+require File.join(directory, 'petfinder', 'shelter')
+require File.join(directory, 'petfinder', 'auth')

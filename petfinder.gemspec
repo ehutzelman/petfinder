@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Eric Hutzelman"]
-  s.date = %q{2010-04-12}
+  s.date = %q{2010-07-09}
   s.description = %q{Ruby gem wrapper for the Petfinder API}
   s.email = %q{ehutzelman@gmail.com}
   s.extra_rdoc_files = [
@@ -24,45 +24,51 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/petfinder.rb",
+     "lib/petfinder/auth.rb",
+     "lib/petfinder/breeds.rb",
      "lib/petfinder/client.rb",
-     "test/fixtures/auth.xml",
-     "test/fixtures/breed_list.xml",
-     "test/fixtures/pet.xml",
-     "test/fixtures/pet_list.xml",
-     "test/fixtures/shelter.xml",
-     "test/fixtures/shelter_list.xml",
-     "test/helper.rb",
-     "test/test_petfinder.rb"
+     "lib/petfinder/pet.rb",
+     "lib/petfinder/shelter.rb",
+     "petfinder.gemspec",
+     "spec/fixtures/auth.xml",
+     "spec/fixtures/breed_list.xml",
+     "spec/fixtures/pet.xml",
+     "spec/fixtures/pet_list.xml",
+     "spec/fixtures/shelter.xml",
+     "spec/fixtures/shelter_list.xml",
+     "spec/petfinder_spec.rb",
+     "spec/spec.opts",
+     "spec/spec_helper.rb"
   ]
   s.homepage = %q{http://github.com/ehutzelman/petfinder}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.6}
+  s.rubygems_version = %q{1.3.7}
   s.summary = %q{Ruby gem wrapper for the Petfinder API}
   s.test_files = [
-    "test/helper.rb",
-     "test/test_petfinder.rb"
+    "spec/petfinder_spec.rb",
+     "spec/spec_helper.rb"
   ]
 
   if s.respond_to? :specification_version then
     current_version = Gem::Specification::CURRENT_SPECIFICATION_VERSION
     s.specification_version = 3
 
-    if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
-      s.add_runtime_dependency(%q<hashie>, [">= 0.1.3"])
+    if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
+      s.add_runtime_dependency(%q<happymapper>, [">= 0.3.2"])
       s.add_runtime_dependency(%q<httparty>, [">= 0.5.0"])
-      s.add_development_dependency(%q<shoulda>, [">= 2.10.1"])
+      s.add_development_dependency(%q<rspec>, [">= 1.3.0"])
       s.add_development_dependency(%q<fakeweb>, [">= 1.2.5"])
     else
-      s.add_dependency(%q<hashie>, [">= 0.1.3"])
+      s.add_dependency(%q<happymapper>, [">= 0.3.2"])
       s.add_dependency(%q<httparty>, [">= 0.5.0"])
-      s.add_dependency(%q<shoulda>, [">= 2.10.1"])
+      s.add_dependency(%q<rspec>, [">= 1.3.0"])
       s.add_dependency(%q<fakeweb>, [">= 1.2.5"])
     end
   else
-    s.add_dependency(%q<hashie>, [">= 0.1.3"])
+    s.add_dependency(%q<happymapper>, [">= 0.3.2"])
     s.add_dependency(%q<httparty>, [">= 0.5.0"])
-    s.add_dependency(%q<shoulda>, [">= 2.10.1"])
+    s.add_dependency(%q<rspec>, [">= 1.3.0"])
     s.add_dependency(%q<fakeweb>, [">= 1.2.5"])
   end
 end

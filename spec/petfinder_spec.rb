@@ -23,6 +23,22 @@ describe Petfinder::Client do
     pets.first.name.should == 'Petey'    
   end
   
+  describe "retrieving a pet" do
+    before do
+      stub_get("http://api.petfinder.com/pet.getRandom?key=1234567&output=full", "pet.xml")
+      @pet = @client.random_pet      
+    end
+    
+    it "should hide photos collection" do
+      @pet.should_not respond_to(:photos)
+    end
+    
+    it "should reorganize photos for pet as pictures" do
+      @pet.pictures[0].thumbnail.should == 'http://photocache.petfinder.com/fotos/IL173/IL173.10141994-1-pnt.jpg'
+      @pet.pictures[1].large.should == 'http://photocache.petfinder.com/fotos/IL173/IL173.10141994-2-x.jpg'
+    end
+  end
+  
   it "should get the list of breeds for the given animal type" do
     stub_get("http://api.petfinder.com/breed.list?key=1234567&animal=horse", "breed_list.xml")
     breeds = @client.breeds('horse')

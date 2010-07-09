@@ -11,7 +11,7 @@ begin
     gem.homepage = "http://github.com/ehutzelman/petfinder"
     gem.authors = ["Eric Hutzelman"]
 
-    gem.add_dependency('hashie', '>= 0.1.3')
+    gem.add_dependency('happymapper', '>= 0.3.2')
     gem.add_dependency('httparty', '>= 0.5.0')
     
     gem.add_development_dependency "rspec", ">= 1.3.0"

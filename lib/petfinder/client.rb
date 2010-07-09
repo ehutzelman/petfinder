@@ -15,63 +15,59 @@ module Petfinder
     # Valid animal types: barnyard, bird, cat, dog, horse, pig, reptile, smallfurry
     def breeds(animal_type)
       response = perform_get("/breed.list", :query => {:animal => animal_type})
-      return_as_array(response.breeds.breed)
+      Breeds.parse(response, :single => true).breeds
     end    
 
     def pet(id)
       response = perform_get("/pet.get", :query => {:id => id})
-      response.pet
+      Pet.parse(response, :single => true)
     end
     
     # Options available: animal, breed, size, sex, location, shelterid 
     def random_pet(options = {})
       response = perform_get("/pet.getRandom", :query => {:output => 'full'})
-      response.pet
+      Pet.parse(response, :single => true)
     end
     
     # Options available: breed, size, sex, age, offset, count
     def find_pets(animal_type, location, options = {})
       query = options.merge(:animal => animal_type, :location => location)
       response = perform_get("/pet.find", :query => query)
-      return_as_array(response.pets.pet)
+      Pet.parse(response)
     end
 
     def shelter(id)
       response = perform_get("/shelter.get", :query => {:id => id})
-      response.shelter      
+      Shelter.parse(response, :single => true)
     end
     
     # Options available: name, offset, count
     def find_shelters(location, options = {})
       query = options.merge(:location => location)
       response = perform_get("/shelter.find", :query => query)
-      return_as_array(response.shelters.shelter)
+      Shelter.parse(response)
     end
 
     # Options available: offset, count    
     def find_shelters_by_breed(animal_type, breed, options = {})
       query = options.merge(:animal => animal_type, :breed => breed)
       response = perform_get("/shelter.listByBreed", :query => query)
-      return_as_array(response.shelters.shelter)
+      Shelter.parse(response)
     end
     
     # Options available: status, offset, count
     def shelter_pets(id, options = {})
       query = options.merge(:id => id)
       response = perform_get("/shelter.getPets", :query => query)
-      return_as_array(response.pets.pet)
+      Pet.parse(response)
     end
     
     def token
       response = perform_get("/auth.getToken", :query => {:sig => digest_key_and_secret})
-      response.auth.token
+      Auth.parse(response, :single => true).token
     end
         
     private
-    
-    def return_as_array(object)
-      object.class == Array ? object : [object]
-    end
     
     def digest_key_and_secret      
       raise "API secret is required" if @api_secret.blank?
@@ -81,7 +77,7 @@ module Petfinder
     def perform_get(uri, options = {})
       response = self.class.get(uri, options)
       raise_errors(response)
-      mash = Hashie::Mash.new(response['petfinder'])
+      response.body
     end
     
     def raise_errors(response)
