@@ -25,7 +25,8 @@ module Petfinder
     
     # Options available: animal, breed, size, sex, location, shelterid 
     def random_pet(options = {})
-      response = perform_get("/pet.getRandom", :query => {:output => 'full'})
+      query = options.merge(:output => 'full')
+      response = perform_get("/pet.getRandom", :query => query)
       Pet.parse(response, :single => true)
     end
     
