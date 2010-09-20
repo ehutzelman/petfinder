@@ -2,14 +2,21 @@ require 'httparty'
 require 'happymapper'
 require 'digest/md5'
 
+require 'petfinder/client'
+require 'petfinder/pet'
+require 'petfinder/breeds'
+require 'petfinder/shelter'
+require 'petfinder/auth'
+
 module Petfinder
-  
+  VERSION = '0.1.0'
+
   class PetfinderError < StandardError; end
 
   class << self
     attr_accessor :api_key, :api_secret
   end
-  
+
   def self.configure
     yield self
     true
@@ -17,10 +24,3 @@ module Petfinder
 
 end
 
-directory = File.expand_path(File.dirname(__FILE__))
-
-require File.join(directory, 'petfinder', 'client')
-require File.join(directory, 'petfinder', 'pet')
-require File.join(directory, 'petfinder', 'breeds')
-require File.join(directory, 'petfinder', 'shelter')
-require File.join(directory, 'petfinder', 'auth')
