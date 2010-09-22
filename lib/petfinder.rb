@@ -9,7 +9,7 @@ require 'petfinder/shelter'
 require 'petfinder/auth'
 
 module Petfinder
-  VERSION = '0.1.0'
+  VERSION = '0.1.1'
 
   class PetfinderError < StandardError; end
 
