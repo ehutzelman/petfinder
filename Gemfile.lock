@@ -1,3 +1,10 @@
+PATH
+  remote: .
+  specs:
+    petfinder (0.1.2)
+      happymapper (~> 0.3.2)
+      httparty (~> 0.5.0)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -24,7 +31,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (>= 1.0.0)
   fakeweb (~> 1.2.5)
   happymapper (~> 0.3.2)
   httparty (~> 0.5.0)
+  petfinder!
   rspec (~> 2.0.pre)
