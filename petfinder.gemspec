@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rspec", "~> 2.0.pre"
   s.add_development_dependency "fakeweb", "~> 1.2.5"
   s.add_development_dependency "bundler", ">= 1.0.0"
+  s.add_development_dependency "activesupport", "~> 3.0"
 
   # Standard setup that should not need modification
   s.required_rubygems_version = ">= 1.3.6"

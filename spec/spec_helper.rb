@@ -5,6 +5,7 @@ require 'rubygems'
 require 'petfinder'
 require 'rspec'
 require 'fakeweb'
+require 'active_support/core_ext/object/blank'
 
 def fixture_file(filename)
   File.read(File.dirname(__FILE__) + "/fixtures/#{filename}")
