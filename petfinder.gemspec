@@ -12,11 +12,11 @@ Gem::Specification.new do |s|
   s.description       = "REST client for the Petfinder published API."
 
   # Dependencies (pullled into Gemfile with "gemspec")
-  s.add_dependency "happymapper", "~> 0.3.2"
-  s.add_dependency "httparty", "~> 0.5.0"
-  s.add_development_dependency "rspec", "~> 2.0.pre"
-  s.add_development_dependency "fakeweb", "~> 1.2.5"
-  s.add_development_dependency "bundler", ">= 1.0.0"
+  s.add_dependency "happymapper"
+  s.add_dependency "httparty"
+  s.add_development_dependency "rspec"
+  s.add_development_dependency "fakeweb"
+  s.add_development_dependency "bundler"
 
   # Standard setup that should not need modification
   s.required_rubygems_version = ">= 1.3.6"
