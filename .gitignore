@@ -6,3 +6,4 @@ tmp/*
 .bundle
 .rvmrc
 rdoc/*
+bin

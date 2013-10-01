@@ -1,22 +1,19 @@
 module Petfinder
-  
   class Shelter
-    include HappyMapper
+    extend XmlMapper
 
-    tag 'shelter'
-    element :id, String
-    element :name, String
-    element :address1, String
-    element :address2, String
-    element :city, String
-    element :state, String
-    element :zip, String
-    element :country, String
-    element :latitude, String
-    element :longitude, String
-    element :phone, String
-    element :fax, String
-    element :email, String    
+    xml_attributes :id, :name, :address1, :address2, :city, :state, :zip, :country,
+      :latitude, :longitude, :phone, :fax, :email
+
+    def self.multiple(xml)
+      xml.xpath("//shelters/shelter").map do |node|
+        Shelter.new(Nokogiri::XML(node.to_xml))
+      end
+    end
+
+    def initialize(xml)
+      @xml = xml
+    end
+
   end
-
 end

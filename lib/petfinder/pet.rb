@@ -1,77 +1,68 @@
 module Petfinder
-  
-  class Photo
-    include HappyMapper
-
-    tag 'photo'
-    attribute :id, String
-    attribute :size, String
-    element :url, String, :tag => '.'
-  end
-
   class Pet
-    include HappyMapper
-    attr_accessor :pictures
-    
-    tag 'pet'
-    element :id, Integer
-    element :shelter_id, String, :tag => 'shelterId'
-    element :shelter_pet_id, String, :tag => 'shelterPetId'
-    element :name, String
-    element :animal, String
-    has_many :breeds, String, :tag => 'breed', :deep => true
-    element :mix, String
-    element :age, String
-    element :sex, String
-    element :size, String
-    has_many :options, String, :tag => 'option', :deep => true
-    element :description, String
-    element :last_update, DateTime, :tag => 'lastUpdate'
-    element :status, String
-    has_many :photos, Photo, :tag => 'photo', :deep => true
+    extend XmlMapper
 
-    private :photos
+    xml_attributes :id, :name, :animal, :mix, :age, :shelter_id, :shelter_pet_id,
+      :sex, :size, :description, :last_update, :status
 
-    after_parse do |pet|
-      pet.remove_link_from_description
-      pet.consolidate_photos
-    end
-    
-    def remove_link_from_description
-      self.description = description[0..description.index("\n") - 1] if description.index("\n")
-    end
-    
-    def consolidate_photos
-      @pictures = []
-      photos.map {|photo| photo.id}.uniq.each do |id|
-        @pictures << Picture.new(photos.select {|photo| photo.id == id})
+    attr_reader :photos
+
+    def self.multiple(xml)
+      xml.xpath("//pets/pet").map do |node|
+        Pet.new(Nokogiri::XML(node.to_xml))
       end
     end
-  end
 
-  class Picture
-    attr_reader :large, :medium, :small, :thumbnail, :tiny
-  
-    def initialize(photos)
-      photos.each do |photo|
-        case photo.size
-        when "x"
-          @large = photo.url
-        when "pn"
-          @medium = photo.url
-        when "fpm"
-          @small = photo.url
-        when "pnt"
-          @thumbnail = photo.url
-        when "t"
-          @tiny = photo.url
-        end
+    def initialize(xml)
+      @xml = xml
+    end
+
+    def breeds
+      @xml.xpath("//pet/breeds/breed").map(&:text)
+    end
+
+    def options
+      @xml.xpath("//pet/options/option").map(&:text)
+    end
+
+    def photos
+      parse_photos unless @photos
+      @photos
+    end
+
+    private
+
+    def parse_photos
+      @photos = []
+      @xml.xpath("//pet/media/photos/photo").each do |node|
+        add_photo(node.attr("id"), node.attr("size"), node.text)
       end
     end
-  
-    def to_s
-      large
-    end    
-  end
 
+    def add_photo(id, size, url)
+      photo = @photos.find { |photo| photo.id == id } || Photo.new(id)
+      case size
+      when "x"
+        photo.large = url
+      when "pn"
+        photo.medium = url
+      when "fpm"
+        photo.small = url
+      when "pnt"
+        photo.thumbnail = url
+      when "t"
+        photo.tiny = url
+      end
+      @photos << photo unless @photos.include?(photo)
+    end
+
+    class Photo
+      attr_accessor :id, :large, :medium, :small, :thumbnail, :tiny
+
+      def initialize(id)
+        @id = id
+      end
+    end
+
+  end
 end

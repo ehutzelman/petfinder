@@ -1,10 +1,13 @@
 module Petfinder
-
   class Breeds
-    include HappyMapper
-    tag 'breeds'
 
-    has_many :breeds, String, :tag => 'breed'
+    def initialize(xml)
+      @xml = xml
+    end
+
+    def breeds
+      @xml.xpath("//breeds/breed").map(&:text)
+    end
+
   end
-
 end

@@ -1,31 +1,28 @@
-# -*- encoding: utf-8 -*-
-require File.expand_path("../lib/petfinder/version", __FILE__)
+# coding: utf-8
+lib = File.expand_path('../lib', __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+require 'petfinder/version'
 
-Gem::Specification.new do |s|
-  s.name              = "petfinder"
-  s.rubyforge_project = "petfinder"
-  s.version           = Petfinder::VERSION
-  s.authors           = ["Eric Hutzelman"]
-  s.email             = ["ehutzelman@gmail.com"]
-  s.homepage          = "http://github.com/ehutzelman/petfinder"
-  s.summary           = "Ruby gem wrapper for the Petfinder API."
-  s.description       = "REST client for the Petfinder published API."
+Gem::Specification.new do |spec|
+  spec.name          = "petfinder"
+  spec.version       = Petfinder::VERSION
+  spec.authors       = ["Eric Hutzelman"]
+  spec.email         = ["ehutzelman@gmail.com"]
+  spec.description   = "REST client for the Petfinder published API."
+  spec.summary       = "Ruby gem wrapper for the Petfinder API."
+  spec.homepage      = "http://github.com/ehutzelman/petfinder"
+  spec.license       = "MIT"
 
-  # Dependencies (pullled into Gemfile with "gemspec")
-  s.add_dependency "happymapper"
-  s.add_dependency "httparty"
-  s.add_development_dependency "rspec"
-  s.add_development_dependency "fakeweb"
-  s.add_development_dependency "bundler"
+  spec.files         = `git ls-files`.split($/)
+  spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
+  spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
+  spec.require_paths = ["lib"]
 
-  # Standard setup that should not need modification
-  s.required_rubygems_version = ">= 1.3.6"
-  s.platform      = Gem::Platform::RUBY
-  s.require_path  = 'lib'
-  s.files         = `git ls-files`.split("\n")
-  s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
-  s.executables   = `git ls-files`.split("\n").map{|f| f =~ /^bin\/(.*)/ ? $1 : nil}.compact
-
-  s.extra_rdoc_files = %w[README.rdoc LICENSE]
-  s.rdoc_options     = ["--charset=UTF-8"]
+  spec.add_dependency "excon"
+  spec.add_dependency "nokogiri"
+  spec.add_development_dependency "rspec"
+  spec.add_development_dependency "webmock"
+  spec.add_development_dependency "pry"
+  spec.add_development_dependency "bundler", "~> 1.3"
+  spec.add_development_dependency "rake"
 end
