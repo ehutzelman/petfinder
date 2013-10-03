@@ -12,15 +12,15 @@
     <id>TX1356</id>
     <name>Lucky Dog Rescue</name>
     <address1>P.O. Box 56512</address1>
-    <address2/>
+    <address2>Apt 25</address2>
     <city>Houston</city>
     <state>TX</state>
     <zip>77019</zip>
-    <country/>
+    <country>USA</country>
     <latitude>29.75239944</latitude>
     <longitude>-95.40170288</longitude>
-    <phone/>
-    <fax/>
+    <phone>555-555-5555</phone>
+    <fax>666-666-6666</fax>
     <email>millicentgerdes@gmail.com</email>
   </shelter>
 </petfinder>

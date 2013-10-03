@@ -7,14 +7,14 @@ module Petfinder
 
     attr_reader :photos
 
+    def initialize(xml)
+      @xml = xml
+    end
+
     def self.multiple(xml)
       xml.xpath("//pets/pet").map do |node|
         Pet.new(Nokogiri::XML(node.to_xml))
       end
-    end
-
-    def initialize(xml)
-      @xml = xml
     end
 
     def breeds

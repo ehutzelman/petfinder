@@ -5,15 +5,15 @@ describe Petfinder::Client do
     @client = Petfinder::Client.new('1234567', 'mysekrit')
   end
 
-  it "should get a random pet" do
-    stub_get("http://api.petfinder.com/pet.getRandom?key=1234567&output=full", "pet.xml")
-    pet = @client.random_pet
-    pet.name.should == 'Charlie'
-  end
-
   it "should get a specific pet by id" do
     stub_get("http://api.petfinder.com/pet.get?key=1234567&id=123", "pet.xml")
     pet = @client.pet(123)
+    pet.name.should == 'Charlie'
+  end
+
+  it "should get a random pet" do
+    stub_get("http://api.petfinder.com/pet.getRandom?key=1234567&output=full", "pet.xml")
+    pet = @client.random_pet
     pet.name.should == 'Charlie'
   end
 
