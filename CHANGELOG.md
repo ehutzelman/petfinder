@@ -1,3 +1,7 @@
+1.0.1
+-----
+* Update gem dependencies and versions
+
 1.0.0
 -----
 * New gem dependencies: nokogiri and excon
