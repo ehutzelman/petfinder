@@ -17,6 +17,10 @@ module Petfinder
       end
     end
 
+    def description_sanitized
+      Nokogiri::HTML(CGI.unescapeHTML(description)).content
+    end
+
     def breeds
       @xml.xpath("//pet/breeds/breed").map(&:text)
     end

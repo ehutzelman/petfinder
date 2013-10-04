@@ -26,6 +26,10 @@ describe Petfinder::Pet do
     @pet.options.should include("hasShots", "altered")
   end
 
+  it "should return a sanitized version of the description" do
+    @pet.description_sanitized.should_not =~ /<div>/
+  end
+
   it "should populate multiple pet objects" do
     pets = Petfinder::Pet.multiple(Nokogiri::XML(fixture_file('pet_list.xml')))
     pets.should have(25).items
