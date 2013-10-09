@@ -66,3 +66,10 @@ Get your Petfinder API key at: http://www.petfinder.com/developers/api-key
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Copyright
+
+Copyright (c) 2010-2013 Eric Hutzelman.
+See [LICENSE][] for details.
+
+[license]: LICENSE.txt
