@@ -1,5 +1,11 @@
 # Petfinder
 
+[![Gem Version](https://badge.fury.io/rb/petfinder.png)][gem]
+[![Build Status](https://secure.travis-ci.org/ehutzelman/petfinder.png?branch=master)][travis]
+
+[gem]: https://rubygems.org/gems/petfinder
+[travis]: http://travis-ci.org/ehutzelman/petfinder
+
 Ruby gem wrapper for the [Petfinder API](http://www.petfinder.com/developers/api-docs).
 
 ## Installation
