@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/petfinder.png)][gem]
 [![Build Status](https://secure.travis-ci.org/ehutzelman/petfinder.png?branch=master)][travis]
+[![Code Climate](https://codeclimate.com/github/ehutzelman/petfinder.png)](https://codeclimate.com/github/ehutzelman/petfinder)
 
 [gem]: https://rubygems.org/gems/petfinder
 [travis]: http://travis-ci.org/ehutzelman/petfinder
