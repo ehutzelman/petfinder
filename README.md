@@ -35,52 +35,60 @@ Get your Petfinder API key at: http://www.petfinder.com/developers/api-key
 
 ### or configure once
 
-    Petfinder.configure do |config|
-      config.api_key = 'your_api_key'
-      config.api_secret = 'your_api_secret'
-    end
-    petfinder = Petfinder::Client.new
+```ruby
+Petfinder.configure do |config|
+  config.api_key = 'your_api_key'
+  config.api_secret = 'your_api_secret'
+end
+petfinder = Petfinder::Client.new
+```
 
 ## Examples
 
 #### Return a list of dogs in the "90210" zip code
 
-    pets = petfinder.find_pets('dog', '90210')
-    pets.count
-    # => "25"
+```ruby
+pets = petfinder.find_pets('dog', '90210')
+pets.count
+# => "25"
 
-    pets.first.name
-    # => "Petey"
+pets.first.name
+# => "Petey"
 
-    pets.first.shelterid
-    # => "CA123"
+pets.first.shelterid
+# => "CA123"
+```
 
 #### Return information about the shelter with id "CA123"
 
-    shelter = petfinder.shelter('CA123')
-    shelter.name
-    # => "Melrose Place SPCA"
+```ruby
+shelter = petfinder.shelter('CA123')
+shelter.name
+# => "Melrose Place SPCA"
+```
 
 #### Other available methods
 
-    # Valid animal types: barnyard, bird, cat, dog, horse, pig, reptile, smallfurry
-    breeds = petfinder.breeds(animal_type)
+```ruby
+# Valid animal types: barnyard, bird, cat, dog, horse, pig, reptile, smallfurry
+breeds = petfinder.breeds(animal_type)
+
+# Options available: animal, breed, size, sex, location, shelterid
+pet = petfinder.random_pet(options)
+pet = petfinder.pet(id)
+
+# Options available: breed, size, sex, age, offset, count
+pets = petfinder.find_pets(animal_type, location, options)
+
+# Options available: status, offset, count
+pets = shelter_pets(shelter_id, options)
     
-    # Options available: animal, breed, size, sex, location, shelterid
-    pet = petfinder.random_pet(options)
-    pet = petfinder.pet(id)
+# Options available: name, offset, count
+shelters = petfinder.find_shelters(location, options)
+shelters = petfinder.find_shelters_by_breed(animal_type, breed)
 
-    # Options available: breed, size, sex, age, offset, count
-    pets = petfinder.find_pets(animal_type, location, options)
-
-    # Options available: status, offset, count
-    pets = shelter_pets(shelter_id, options)
-    
-    # Options available: name, offset, count
-    shelters = petfinder.find_shelters(location, options)
-    shelters = petfinder.find_shelters_by_breed(animal_type, breed)
-
-    shelter = petfinder.shelter(shelter_id)
+shelter = petfinder.shelter(shelter_id)
+```
 
 ## TODO
 
