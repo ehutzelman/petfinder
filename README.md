@@ -61,6 +61,27 @@ Get your Petfinder API key at: http://www.petfinder.com/developers/api-key
     shelter.name
     # => "Melrose Place SPCA"
 
+#### Other available methods
+
+    # Valid animal types: barnyard, bird, cat, dog, horse, pig, reptile, smallfurry
+    breeds = petfinder.breeds(animal_type)
+    
+    # Options available: animal, breed, size, sex, location, shelterid
+    pet = petfinder.random_pet(options)
+    pet = petfinder.pet(id)
+
+    # Options available: breed, size, sex, age, offset, count
+    pets = petfinder.find_pets(animal_type, location, options)
+
+    # Options available: status, offset, count
+    pets = shelter_pets(shelter_id, options)
+    
+    # Options available: name, offset, count
+    shelters = petfinder.find_shelters(location, options)
+    shelters = petfinder.find_shelters_by_breed(animal_type, breed)
+
+    shelter = petfinder.shelter(shelter_id)
+
 ## TODO
 
 * Implement use of security token when Petfinder requires it
