@@ -29,6 +29,10 @@ module Petfinder
       @xml.xpath("//pet/options/option").map(&:text)
     end
 
+    def city
+      @xml.xpath("//pet/contact/city").map(&:text)
+    end
+
     def photos
       parse_photos unless @photos
       @photos
