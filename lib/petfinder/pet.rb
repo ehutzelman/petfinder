@@ -3,7 +3,7 @@ module Petfinder
     extend XmlMapper
 
     xml_attributes :id, :name, :animal, :mix, :age, :shelter_id, :shelter_pet_id,
-      :sex, :size, :description, :last_update, :status
+      :sex, :size, :description, :last_update, :status, :contact
 
     attr_reader :photos
 
@@ -27,6 +27,10 @@ module Petfinder
 
     def options
       @xml.xpath("//pet/options/option").map(&:text)
+    end
+
+    def city
+      @xml.xpath("//pet/contact/city").map(&:text)
     end
 
     def photos
