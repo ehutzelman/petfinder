@@ -1,3 +1,7 @@
+1.0.2
+-----
+* Add contact object to pet (lynnaloo)
+
 1.0.1
 -----
 * Update gem dependencies and versions
