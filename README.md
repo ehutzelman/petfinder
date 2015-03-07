@@ -59,6 +59,21 @@ pets.first.shelterid
 # => "CA123"
 ```
 
+#### Returning paged results
+
+```ruby
+petfinder.find_pets('dog', 77057, count: 25)
+
+# page 2
+petfinder.find_pets('dog', 77057, count: 25, offset: 25)
+
+# page 3
+petfinder.find_pets('dog', 77057, count: 25, offset: 50)
+
+# page 4
+petfinder.find_pets('dog', 77057, count: 25, offset: 75)
+```
+
 #### Return information about the shelter with id "CA123"
 
 ```ruby
@@ -82,7 +97,7 @@ pets = petfinder.find_pets(animal_type, location, options)
 
 # Options available: status, offset, count
 pets = shelter_pets(shelter_id, options)
-    
+
 # Options available: name, offset, count
 shelters = petfinder.find_shelters(location, options)
 shelters = petfinder.find_shelters_by_breed(animal_type, breed)
