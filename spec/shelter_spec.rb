@@ -16,5 +16,8 @@ describe Petfinder::Pet do
     shelters.should have(25).items
   end
 
+  it "should return a friendly inspect" do
+    @shelter.inspect.should eq("#<Shelter id: 'TX1356', name: 'Lucky Dog Rescue', state: 'TX'>")
+  end
 end
 

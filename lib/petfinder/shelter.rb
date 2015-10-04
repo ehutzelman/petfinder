@@ -9,6 +9,10 @@ module Petfinder
       @xml = xml
     end
 
+    def inspect
+      "#<Shelter id: '#{id}', name: '#{name}', state: '#{state}'>"
+    end
+
     def self.multiple(xml)
       xml.xpath("//shelters/shelter").map do |node|
         Shelter.new(Nokogiri::XML(node.to_xml))
