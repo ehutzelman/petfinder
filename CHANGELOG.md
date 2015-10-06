@@ -1,3 +1,7 @@
+1.0.3
+-----
+* Adding inspect methods and rake console tasks (JessSumner)
+
 1.0.2
 -----
 * Add contact object to pet (lynnaloo)
