@@ -35,4 +35,7 @@ describe Petfinder::Pet do
     pets.should have(25).items
   end
 
+  it "should return a friendly inspect" do
+    @pet.inspect.should eq("#<Pet id: '10141994', name: 'Charlie', animal: 'Cat', mix: 'no', sex: 'M'>")
+  end
 end

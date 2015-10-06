@@ -38,6 +38,10 @@ module Petfinder
       @photos
     end
 
+    def inspect
+      "#<Pet id: '#{id}', name: '#{name}', animal: '#{animal}', mix: '#{mix}', sex: '#{sex}'>"
+    end
+
     private
 
     def parse_photos
