@@ -13,7 +13,7 @@ describe Petfinder::Pet do
 
   it "should populate multiple shelter objects" do
     shelters = Petfinder::Shelter.multiple(Nokogiri::XML(fixture_file('shelter_list.xml')))
-    shelters.should have(25).items
+    shelters.count.should eq(25)
   end
 
   it "should return a friendly inspect" do

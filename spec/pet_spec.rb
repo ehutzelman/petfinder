@@ -32,7 +32,7 @@ describe Petfinder::Pet do
 
   it "should populate multiple pet objects" do
     pets = Petfinder::Pet.multiple(Nokogiri::XML(fixture_file('pet_list.xml')))
-    pets.should have(25).items
+    pets.count.should eq(25)
   end
 
   it "should return a friendly inspect" do
