@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    petfinder (1.0.3)
+    petfinder (1.0.4)
       excon (~> 0.26)
       nokogiri (~> 1.6)
 

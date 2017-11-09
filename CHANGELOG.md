@@ -1,3 +1,7 @@
+1.0.4
+-----
+* Update gem dependencies to latest versions
+
 1.0.3
 -----
 * Adding inspect methods and rake console tasks (JessSumner)
