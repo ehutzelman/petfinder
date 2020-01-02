@@ -1,3 +1,7 @@
+2.0.0
+-----
+* Update gem dependencies to latest versions
+
 1.0.4
 -----
 * Update gem dependencies to latest versions
