@@ -1,0 +1,1498 @@
+{
+  "animals": [
+    {
+      "id": 47006888,
+      "organization_id": "IL599",
+      "url": "https://www.petfinder.com/dog/clarissa-47006888/il/st-charles/starfish-animal-rescue-il599/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Clarissa",
+      "description": "Meet Clarissa! Clarissa is a sweet black lab mix girl born at the end of September and weighing around 12...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/1/?bust=1577983696&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/1/?bust=1577983696&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/1/?bust=1577983696&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/1/?bust=1577983696"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/3/?bust=1577983710&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/3/?bust=1577983710&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/3/?bust=1577983710&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/3/?bust=1577983710"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/2/?bust=1577983730&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/2/?bust=1577983730&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/2/?bust=1577983730&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/2/?bust=1577983730"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/4/?bust=1577983746&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/4/?bust=1577983746&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/4/?bust=1577983746&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006888/4/?bust=1577983746"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:49:33+0000",
+      "published_at": "2020-01-02T16:49:33+0000",
+      "distance": null,
+      "contact": {
+        "email": "starfishanimalrescuer@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "St. Charles",
+          "state": "IL",
+          "postcode": "60175",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006888"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/il599"
+        }
+      }
+    },
+    {
+      "id": 47006890,
+      "organization_id": "MO102",
+      "url": "https://www.petfinder.com/cat/maredith-47006890/mo/union/franklin-county-humane-society-mo102/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray / Blue / Silver",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Maredith",
+      "description": "For more information on this cat or any of our adoptable pets, please call the shelter at 636-583-4300 or stop...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006890/1/?bust=1577983686&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006890/1/?bust=1577983686&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006890/1/?bust=1577983686&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006890/1/?bust=1577983686"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:49:28+0000",
+      "published_at": "2020-01-02T16:49:28+0000",
+      "distance": null,
+      "contact": {
+        "email": "jean@fchsmo.org",
+        "phone": "(636) 583-4300",
+        "address": {
+          "address1": "1222 West Main St.",
+          "address2": null,
+          "city": "Union",
+          "state": "MO",
+          "postcode": "63084",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006890"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/mo102"
+        }
+      }
+    },
+    {
+      "id": 47006834,
+      "organization_id": "NJ100",
+      "url": "https://www.petfinder.com/dog/eugene-47006834/nj/willingboro/burlington-county-animal-alliance-nj100/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Eugene",
+      "description": "Eugene and his brother Ernie were dumped in a high kill shelter by their owners who did not want any...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/1/?bust=1577983509&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/1/?bust=1577983509&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/1/?bust=1577983509&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/1/?bust=1577983509"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/2/?bust=1577983514&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/2/?bust=1577983514&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/2/?bust=1577983514&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006834/2/?bust=1577983514"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:49:07+0000",
+      "published_at": "2020-01-02T16:49:07+0000",
+      "distance": null,
+      "contact": {
+        "email": "jajachris@aol.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Willingboro",
+          "state": "NJ",
+          "postcode": "08046",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006834"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj100"
+        }
+      }
+    },
+    {
+      "id": 47006872,
+      "organization_id": "MN54",
+      "url": "https://www.petfinder.com/dog/20d-002-47006872/mn/willmar/hawk-creek-animal-shelter-mn54/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Husky",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "20D-002",
+      "description": "Found at Hwy 12 &amp; Co Rd 8, Kandiyohi",
+      "photos": [],
+      "status": "found",
+      "status_changed_at": "2020-01-02T16:48:44+0000",
+      "published_at": "2020-01-02T16:48:44+0000",
+      "distance": null,
+      "contact": {
+        "email": "shelter@thehskmc.com",
+        "phone": "(320) 235-7612",
+        "address": {
+          "address1": "PO Box 709",
+          "address2": "250 28th St SW",
+          "city": "Willmar",
+          "state": "MN",
+          "postcode": "56201",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006872"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/mn54"
+        }
+      }
+    },
+    {
+      "id": 47006803,
+      "organization_id": "TX2342",
+      "url": "https://www.petfinder.com/cat/nico-47006803/tx/floresville/wilson-county-cats-tx2342/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White / Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "loving",
+        "mellow",
+        ""
+      ],
+      "name": "Nico",
+      "description": "Nico was found with his three brothers as kittens but were in rough shape when they were found.  As a...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/1/?bust=1577983211&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/1/?bust=1577983211&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/1/?bust=1577983211&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/1/?bust=1577983211"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/2/?bust=1577983215&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/2/?bust=1577983215&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/2/?bust=1577983215&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/2/?bust=1577983215"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/3/?bust=1577983218&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/3/?bust=1577983218&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/3/?bust=1577983218&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006803/3/?bust=1577983218"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:48:23+0000",
+      "published_at": "2020-01-02T16:48:23+0000",
+      "distance": null,
+      "contact": {
+        "email": "wilsoncountycats@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Floresville",
+          "state": "TX",
+          "postcode": "78114",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006803"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2342"
+        }
+      }
+    },
+    {
+      "id": 47006838,
+      "organization_id": "NY879",
+      "url": "https://www.petfinder.com/cat/adelina-47006838/ny/whitestone/amazing-animals-rescue-and-adoptions-ny879/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Adelina",
+      "description": "Please text or leave a voice mail  718-791-0477 the last time you owned a cat and how long \nAlso what...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006838/1/?bust=1577983470&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006838/1/?bust=1577983470&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006838/1/?bust=1577983470&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006838/1/?bust=1577983470"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:48:07+0000",
+      "published_at": "2020-01-02T16:48:07+0000",
+      "distance": null,
+      "contact": {
+        "email": "amazinanimals17@aol.com",
+        "phone": "(718) 791-0477",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Whitestone",
+          "state": "NY",
+          "postcode": "11357",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006838"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny879"
+        }
+      }
+    },
+    {
+      "id": 47006881,
+      "organization_id": "FL364",
+      "url": "https://www.petfinder.com/cat/kee-47006881/fl/saint-petersburg/friends-of-strays-inc-fl364/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White / Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Kee",
+      "description": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006881/1/?bust=1577983678&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006881/1/?bust=1577983678&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006881/1/?bust=1577983678&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006881/1/?bust=1577983678"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:48:07+0000",
+      "published_at": "2020-01-02T16:48:07+0000",
+      "distance": null,
+      "contact": {
+        "email": "laine@friendsofstrays.com",
+        "phone": "(727) 522-6566",
+        "address": {
+          "address1": "2911 47th Avenue N.",
+          "address2": null,
+          "city": "Saint Petersburg",
+          "state": "FL",
+          "postcode": "33781",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006881"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/fl364"
+        }
+      }
+    },
+    {
+      "id": 47006736,
+      "organization_id": "NY1095",
+      "url": "https://www.petfinder.com/dog/ranger-47006736/ny/middletown/helpers-4-shelters-ny1095/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Tibetan Terrier",
+        "secondary": "Polish Lowland Sheepdog",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, & White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "RANGER",
+      "description": "CURRENTLY WITH FOSTER IN TENNESSEE!!!!\n\nRanger came to us via owner surrender. He is playful, smart and loving.\n\nHe gets...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006736/1/?bust=1577982451&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006736/1/?bust=1577982451&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006736/1/?bust=1577982451&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006736/1/?bust=1577982451"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:48:02+0000",
+      "published_at": "2020-01-02T16:48:02+0000",
+      "distance": null,
+      "contact": {
+        "email": "H4SAdoptions@gmail.com",
+        "phone": "(914) 357-0101",
+        "address": {
+          "address1": "64 Academy Ave",
+          "address2": null,
+          "city": "Middletown",
+          "state": "NY",
+          "postcode": "10940",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006736"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny1095"
+        }
+      }
+    },
+    {
+      "id": 47006879,
+      "organization_id": "MD61",
+      "url": "https://www.petfinder.com/dog/luna-47006879/md/fallston/humane-society-of-harford-county-md61/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Luna",
+      "description": "2 year old female $160",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:48:00+0000",
+      "published_at": "2020-01-02T16:48:00+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@harfordshelter.org",
+        "phone": "(410) 836-1090 ext. 105",
+        "address": {
+          "address1": "2208 Connolly Road",
+          "address2": null,
+          "city": "Fallston",
+          "state": "MD",
+          "postcode": "21047",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006879"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/md61"
+        }
+      }
+    },
+    {
+      "id": 47006874,
+      "organization_id": "TX309",
+      "url": "https://www.petfinder.com/dog/benbrook-sunshine-47006874/tx/benbrook/humane-society-of-north-texas-tx309/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Cattle Dog / Blue Heeler",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Apricot / Beige",
+        "secondary": "Brown / Chocolate",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Benbrook~ Sunshine",
+      "description": "Check out this darling girl! Little Sunshine is a 2 month old Heeler mix ready to start her life with...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006874/1/?bust=1577983626&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006874/1/?bust=1577983626&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006874/1/?bust=1577983626&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006874/1/?bust=1577983626"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:47:27+0000",
+      "published_at": "2020-01-02T16:47:27+0000",
+      "distance": null,
+      "contact": {
+        "email": "benbrook@hsnt.org",
+        "phone": null,
+        "address": {
+          "address1": "9009 Benbrook Blvd",
+          "address2": null,
+          "city": "Benbrook",
+          "state": "TX",
+          "postcode": "76126",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006874"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx309"
+        }
+      }
+    },
+    {
+      "id": 47006851,
+      "organization_id": "IN144",
+      "url": "https://www.petfinder.com/dog/lana-47006851/in/new-castle/new-castle-henry-county-animal-shelter-in144/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Lana",
+      "description": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006851/1/?bust=1577983613&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006851/1/?bust=1577983613&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006851/1/?bust=1577983613&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006851/1/?bust=1577983613"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:47:15+0000",
+      "published_at": "2020-01-02T16:47:15+0000",
+      "distance": null,
+      "contact": {
+        "email": "nchcanimalshelter@yahoo.com",
+        "phone": "(765) 529-8131",
+        "address": {
+          "address1": "11Midway Drive",
+          "address2": null,
+          "city": "New Castle",
+          "state": "IN",
+          "postcode": "47362",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006851"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/in144"
+        }
+      }
+    },
+    {
+      "id": 47006882,
+      "organization_id": "PA55",
+      "url": "https://www.petfinder.com/dog/princess-47006882/pa/pittsburgh/humane-animal-rescue-pa55/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Princess",
+      "description": "If you&amp;#39;re ready for a royal pup in the form of a sweetie baby beagle, look no further: Princess is...",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:46:59+0000",
+      "published_at": "2020-01-02T16:46:59+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopteast@humaneanimalrescue.org",
+        "phone": "(412) 345-7300 ext. 215",
+        "address": {
+          "address1": "6926 Hamilton Avenue",
+          "address2": null,
+          "city": "Pittsburgh",
+          "state": "PA",
+          "postcode": "15208",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006882"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa55"
+        }
+      }
+    },
+    {
+      "id": 47006828,
+      "organization_id": "NY275",
+      "url": "https://www.petfinder.com/dog/19-588-47006828/ny/amityville/town-of-babylon-animal-shelter-ny275/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pomeranian",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Yellow / Tan / Blond / Fawn",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "19-588",
+      "description": "FOUND 12/26/19, Amityville, female, case #19-588, contact Babylon Animal Shelter to identify, 631-643-9270. Our strays are held 5-7 days and...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006828/1/?bust=1577983340&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006828/1/?bust=1577983340&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006828/1/?bust=1577983340&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006828/1/?bust=1577983340"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:46:56+0000",
+      "published_at": "2020-01-02T16:46:56+0000",
+      "distance": null,
+      "contact": {
+        "email": "BAARC@townofbabylon.com",
+        "phone": "(631) 643-9270",
+        "address": {
+          "address1": "80 New Highway",
+          "address2": null,
+          "city": "Amityville",
+          "state": "NY",
+          "postcode": "11701",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006828"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny275"
+        }
+      }
+    },
+    {
+      "id": 47006853,
+      "organization_id": "FL364",
+      "url": "https://www.petfinder.com/cat/mika-47006853/fl/saint-petersburg/friends-of-strays-inc-fl364/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Gray / Blue / Silver)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Mika",
+      "description": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006853/1/?bust=1577983545&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006853/1/?bust=1577983545&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006853/1/?bust=1577983545&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006853/1/?bust=1577983545"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:46:42+0000",
+      "published_at": "2020-01-02T16:46:42+0000",
+      "distance": null,
+      "contact": {
+        "email": "laine@friendsofstrays.com",
+        "phone": "(727) 522-6566",
+        "address": {
+          "address1": "2911 47th Avenue N.",
+          "address2": null,
+          "city": "Saint Petersburg",
+          "state": "FL",
+          "postcode": "33781",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006853"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/fl364"
+        }
+      }
+    },
+    {
+      "id": 47006657,
+      "organization_id": "TX1355",
+      "url": "https://www.petfinder.com/dog/zima-47006657/tx/corpus-christi/for-the-love-of-strays-tx1355/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Standard Schnauzer",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray / Blue / Silver",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Lap Dog",
+        "Snuggler"
+      ],
+      "name": "Zima",
+      "description": "Doggy door trained, snuggler, lap dog.",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/2/?bust=1577982144&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/2/?bust=1577982144&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/2/?bust=1577982144&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/2/?bust=1577982144"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/1/?bust=1577982140&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/1/?bust=1577982140&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/1/?bust=1577982140&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/1/?bust=1577982140"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/3/?bust=1577982155&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/3/?bust=1577982155&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/3/?bust=1577982155&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006657/3/?bust=1577982155"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:46:27+0000",
+      "published_at": "2020-01-02T16:46:27+0000",
+      "distance": null,
+      "contact": {
+        "email": "fortheloveofstrays@yahoo.com",
+        "phone": "(361) 462-7911",
+        "address": {
+          "address1": "P.O. Box 8122",
+          "address2": null,
+          "city": "Corpus Christi",
+          "state": "TX",
+          "postcode": "78468",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006657"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1355"
+        }
+      }
+    },
+    {
+      "id": 47006878,
+      "organization_id": "MI369",
+      "url": "https://www.petfinder.com/dog/hojo-47006878/mi/pontiac/oakland-county-animal-shelter-and-pet-adoption-center-mi369/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Hojo",
+      "description": "Primary Color: White Secondary Color: Black Weight: 60.2lbs Age: 4yrs 0mths 0wks",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:46:10+0000",
+      "published_at": "2020-01-02T16:46:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "petadoption@oakgov.com",
+        "phone": "(248) 858-1070",
+        "address": {
+          "address1": "1200 N. Telegraph",
+          "address2": "Building 42 East",
+          "city": "Pontiac",
+          "state": "MI",
+          "postcode": "48341",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006878"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/mi369"
+        }
+      }
+    },
+    {
+      "id": 47006876,
+      "organization_id": "MD100",
+      "url": "https://www.petfinder.com/cat/kris-47006876/md/baltimore/the-maryland-spca-md100/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Kris",
+      "description": "My name is Kris and I am a little kitten looking for a good home! I am already litter box...",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:46:09+0000",
+      "published_at": "2020-01-02T16:46:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptme@mdspca.org",
+        "phone": "(410) 235-8826  ",
+        "address": {
+          "address1": "3300 Falls Road",
+          "address2": null,
+          "city": "Baltimore",
+          "state": "MD",
+          "postcode": "21211",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006876"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/md100"
+        }
+      }
+    },
+    {
+      "id": 47006807,
+      "organization_id": "OH682",
+      "url": "https://www.petfinder.com/dog/apollo-47006807/oh/ravenna/pinealope-animal-rescue-oh682/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Anatolian Shepherd",
+        "secondary": "Blue Lacy",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Apollo",
+      "description": "Apollo born 10/26/19 will be ready for adoption after 1/6/2020.  Mom is an 84lb Anatolian Shepherd mix and dad is...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:49:50+0000",
+      "published_at": "2020-01-02T16:49:50+0000",
+      "distance": null,
+      "contact": {
+        "email": "pinealope.adopt@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Ravenna",
+          "state": "OH",
+          "postcode": "44266",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006807"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/oh682"
+        }
+      }
+    },
+    {
+      "id": 47006885,
+      "organization_id": "NY275",
+      "url": "https://www.petfinder.com/dog/19-591-47006885/ny/amityville/town-of-babylon-animal-shelter-ny275/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "English Bulldog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "Yellow / Tan / Blond / Fawn",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "19-591",
+      "description": "FOUND 12/30/19, Amityville, male, case #19-591, contact Babylon Animal Shelter to identify, 631-643-9270. Our strays are held 5-7 days and...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006885/1/?bust=1577983780&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006885/1/?bust=1577983780&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006885/1/?bust=1577983780&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006885/1/?bust=1577983780"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:49:48+0000",
+      "published_at": "2020-01-02T16:49:48+0000",
+      "distance": null,
+      "contact": {
+        "email": "BAARC@townofbabylon.com",
+        "phone": "(631) 643-9270",
+        "address": {
+          "address1": "80 New Highway",
+          "address2": null,
+          "city": "Amityville",
+          "state": "NY",
+          "postcode": "11701",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006885"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny275"
+        }
+      }
+    },
+    {
+      "id": 47006877,
+      "organization_id": "MD100",
+      "url": "https://www.petfinder.com/cat/noel-47006877/md/baltimore/the-maryland-spca-md100/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Noel",
+      "description": "My name is Noel and I am a little kitten looking for a good home! I am already litter box...",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-01-02T16:46:09+0000",
+      "published_at": "2020-01-02T16:46:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptme@mdspca.org",
+        "phone": "(410) 235-8826  ",
+        "address": {
+          "address1": "3300 Falls Road",
+          "address2": null,
+          "city": "Baltimore",
+          "state": "MD",
+          "postcode": "21211",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/47006877"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/md100"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 7953792,
+    "current_page": 1,
+    "total_pages": 397690,
+    "_links": {
+      "next": {
+        "href": "/v2/animals?page=2"
+      }
+    }
+  }
+}

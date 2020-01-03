@@ -1,9 +1,13 @@
 .DS_STORE
-coverage/*
-pkg/*
-tmp/*
-*.gem
-.bundle
-.rvmrc
-rdoc/*
-bin
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+.ruby-version
+
+# rspec failure tracking
+.rspec_status

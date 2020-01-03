@@ -1,17 +1,20 @@
-require 'excon'
-require 'nokogiri'
-require 'digest/md5'
-
+require 'oauth2'
+require 'hashie'
+require 'petfinder/api'
+require 'petfinder/mash'
 require 'petfinder/client'
-require 'petfinder/xml_mapper'
-require 'petfinder/pet'
-require 'petfinder/breeds'
-require 'petfinder/shelter'
-require 'petfinder/auth'
 
 module Petfinder
 
-  class Error < StandardError; end
+  API_URL = "https://api.petfinder.com/v2"
+
+  class Error < StandardError
+    attr_reader :data
+    def initialize(data)
+      @data = data
+      super
+    end
+  end
 
   class << self
     attr_accessor :api_key, :api_secret
@@ -23,4 +26,3 @@ module Petfinder
   end
 
 end
-

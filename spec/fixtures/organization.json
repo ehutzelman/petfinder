@@ -1,0 +1,49 @@
+{
+  "organization": {
+    "id": "MO201",
+    "name": "Animal Shelter Of Linn County",
+    "email": "linncountyhs@yahoo.com",
+    "phone": "(660) 258-3322",
+    "address": {
+      "address1": "29205 Highway 11 South",
+      "address2": null,
+      "city": "Brookfield",
+      "state": "MO",
+      "postcode": "64628",
+      "country": "US"
+    },
+    "hours": {
+      "monday": "CLOSED",
+      "tuesday": "11 A.M. TO 4 P.M.",
+      "wednesday": "11 A.M. TO 4 P.M.",
+      "thursday": "11 A.M. TO 4 P.M.",
+      "friday": "11 A.M. TO 4 P.M.",
+      "saturday": "11 A.M. TO 1 P.M.",
+      "sunday": "CLOSED"
+    },
+    "url": "https://www.petfinder.com/member/us/mo/brookfield/animal-shelter-of-linn-county-mo201/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+    "website": "http://WWW.LINNCOUNTYHUMANESOCIETY.ORG",
+    "mission_statement": null,
+    "adoption": {
+      "policy": null,
+      "url": null
+    },
+    "social_media": {
+      "facebook": null,
+      "twitter": null,
+      "youtube": null,
+      "instagram": null,
+      "pinterest": null
+    },
+    "photos": [],
+    "distance": null,
+    "_links": {
+      "self": {
+        "href": "/v2/organizations/mo201"
+      },
+      "animals": {
+        "href": "/v2/animals?organization=mo201"
+      }
+    }
+  }
+}

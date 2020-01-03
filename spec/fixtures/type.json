@@ -1,0 +1,42 @@
+{
+  "type": {
+    "name": "Dog",
+    "coats": [
+      "Hairless",
+      "Short",
+      "Medium",
+      "Long",
+      "Wire",
+      "Curly"
+    ],
+    "colors": [
+      "Apricot / Beige",
+      "Bicolor",
+      "Black",
+      "Brindle",
+      "Brown / Chocolate",
+      "Golden",
+      "Gray / Blue / Silver",
+      "Harlequin",
+      "Merle (Blue)",
+      "Merle (Red)",
+      "Red / Chestnut / Orange",
+      "Sable",
+      "Tricolor (Brown, Black, & White)",
+      "White / Cream",
+      "Yellow / Tan / Blond / Fawn"
+    ],
+    "genders": [
+      "Male",
+      "Female"
+    ],
+    "_links": {
+      "self": {
+        "href": "/v2/types/dog"
+      },
+      "breeds": {
+        "href": "/v2/types/dog/breeds"
+      }
+    }
+  }
+}

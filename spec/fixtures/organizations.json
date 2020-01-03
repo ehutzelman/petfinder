@@ -1,0 +1,1199 @@
+{
+  "organizations": [
+    {
+      "id": "AB81",
+      "name": "Alberta Bulldog Rescue - Red Deer",
+      "email": "info@albertabulldogrescue.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Red Deer",
+        "state": "AB",
+        "postcode": "T4P 2W7",
+        "country": "CA"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/ca/ab/red-deer/alberta-bulldog-rescue-red-deer-ab81/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": "Alberta Bulldog Rescue is a volunteer run, not for profit organization that is dedicated to rescuing, rehabilitating and re-homing French...",
+      "adoption": {
+        "policy": "We make every effort to find the right candidate for the Bulldogs that ABR takes care of. Please visit our...",
+        "url": "http://www.albertabulldogrescue.com/adopt-a-bully/"
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-2.jpg?bust=2017-11-29+07%3A17%3A23&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-2.jpg?bust=2017-11-29+07%3A17%3A23&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-2.jpg?bust=2017-11-29+07%3A17%3A23&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-2.jpg?bust=2017-11-29+07%3A17%3A23"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-1.jpg?bust=2017-11-13+18%3A32%3A09&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-1.jpg?bust=2017-11-13+18%3A32%3A09&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-1.jpg?bust=2017-11-13+18%3A32%3A09&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19732/19732-1.jpg?bust=2017-11-13+18%3A32%3A09"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ab81"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ab81"
+        }
+      }
+    },
+    {
+      "id": "AL82",
+      "name": "Lifeline Pet Rescue",
+      "email": "pennyw@hiwaay.net",
+      "phone": "256-881-0664",
+      "address": {
+        "address1": "7920-A Charlotte Drive",
+        "address2": null,
+        "city": "Huntsville",
+        "state": "AL",
+        "postcode": "35802",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/al/huntsville/lifeline-pet-rescue-al82/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-2.jpg?bust=2017-11-29+07%3A20%3A02&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-2.jpg?bust=2017-11-29+07%3A20%3A02&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-2.jpg?bust=2017-11-29+07%3A20%3A02&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-2.jpg?bust=2017-11-29+07%3A20%3A02"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-1.jpg?bust=2017-07-04+23%3A28%3A28&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-1.jpg?bust=2017-07-04+23%3A28%3A28&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-1.jpg?bust=2017-07-04+23%3A28%3A28&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19831/19831-1.jpg?bust=2017-07-04+23%3A28%3A28"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/al82"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=al82"
+        }
+      }
+    },
+    {
+      "id": "AR148",
+      "name": "Faulkner County SPCA",
+      "email": "onedog2many@msn.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Conway",
+        "state": "AR",
+        "postcode": "72034",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ar/conway/faulkner-county-spca-ar148/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": "Know who you would like to adopt? Just send us a request for an application to onedog2many@msn.com. Complete application. If...",
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19860/19860-1.jpg?bust=2019-03-18+17%3A07%3A41&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19860/19860-1.jpg?bust=2019-03-18+17%3A07%3A41&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19860/19860-1.jpg?bust=2019-03-18+17%3A07%3A41&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19860/19860-1.jpg?bust=2019-03-18+17%3A07%3A41"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ar148"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ar148"
+        }
+      }
+    },
+    {
+      "id": "AR268",
+      "name": "Morning Meadow Animal Rescue",
+      "email": "mmarcatdog@yahoo.com",
+      "phone": "870-917-7034 ",
+      "address": {
+        "address1": "91 Dallas 425",
+        "address2": null,
+        "city": "Fordyce",
+        "state": "AR",
+        "postcode": "71742",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ar/fordyce/morning-meadow-animal-rescue-ar268/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-1.jpg?bust=2018-01-20+21%3A46%3A55&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-1.jpg?bust=2018-01-20+21%3A46%3A55&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-1.jpg?bust=2018-01-20+21%3A46%3A55&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-1.jpg?bust=2018-01-20+21%3A46%3A55"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-2.jpg?bust=2018-01-20+21%3A53%3A53&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-2.jpg?bust=2018-01-20+21%3A53%3A53&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-2.jpg?bust=2018-01-20+21%3A53%3A53&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-2.jpg?bust=2018-01-20+21%3A53%3A53"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-3.jpg?bust=2018-01-20+21%3A53%3A54&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-3.jpg?bust=2018-01-20+21%3A53%3A54&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-3.jpg?bust=2018-01-20+21%3A53%3A54&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-3.jpg?bust=2018-01-20+21%3A53%3A54"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-4.jpg?bust=2018-01-20+21%3A53%3A54&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-4.jpg?bust=2018-01-20+21%3A53%3A54&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-4.jpg?bust=2018-01-20+21%3A53%3A54&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/19898/19898-4.jpg?bust=2018-01-20+21%3A53%3A54"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ar268"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ar268"
+        }
+      }
+    },
+    {
+      "id": "CA104",
+      "name": "Second Chance at Love Humane Society",
+      "email": "ilovedogs@tcsn.net",
+      "phone": "805-434-3982",
+      "address": {
+        "address1": "P.O. Box 396",
+        "address2": null,
+        "city": "Templeton",
+        "state": "CA",
+        "postcode": "93465",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ca/templeton/second-chance-at-love-humane-society-ca104/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20115/20115-1.jpg?bust=2018-07-28+18%3A31%3A00&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20115/20115-1.jpg?bust=2018-07-28+18%3A31%3A00&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20115/20115-1.jpg?bust=2018-07-28+18%3A31%3A00&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20115/20115-1.jpg?bust=2018-07-28+18%3A31%3A00"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ca104"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ca104"
+        }
+      }
+    },
+    {
+      "id": "CA117",
+      "name": "Friends of Cats",
+      "email": "info@friendsofcats.org",
+      "phone": "(619) 561-0361",
+      "address": {
+        "address1": "15587 Olde Highway 80",
+        "address2": null,
+        "city": "El Cajon",
+        "state": "CA",
+        "postcode": "92021",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ca/el-cajon/friends-of-cats-ca117/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": "http://www.friendsofcats.org",
+      "mission_statement": "To maintain a shelter for homeless and unwanted cats with the goal of placing all healthy cats into loving adoptive...",
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20157/20157-1.jpg?bust=2017-09-02+16%3A27%3A13&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20157/20157-1.jpg?bust=2017-09-02+16%3A27%3A13&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20157/20157-1.jpg?bust=2017-09-02+16%3A27%3A13&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20157/20157-1.jpg?bust=2017-09-02+16%3A27%3A13"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ca117"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ca117"
+        }
+      }
+    },
+    {
+      "id": "CA202",
+      "name": "Pooch Heaven",
+      "email": "poochheavenvolunteer@gmail.com",
+      "phone": "(818) 994-8138",
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Lake Hughes",
+        "state": "CA",
+        "postcode": "93532",
+        "country": "US"
+      },
+      "hours": {
+        "monday": "8-5",
+        "tuesday": "8-5",
+        "wednesday": "8-5",
+        "thursday": "8-5",
+        "friday": "8-5",
+        "saturday": "8-5",
+        "sunday": "8-5"
+      },
+      "url": "https://www.petfinder.com/member/us/ca/lake-hughes/pooch-heaven-ca202/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": "http://www.poochheaven.com",
+      "mission_statement": "The Animal Advocacy and Relief Foundation (DBA: Pooch Heaven) is a registered non-profit, charitable organization dedicated to the rescue and...",
+      "adoption": {
+        "policy": "Adopting a friend!\r\nPotential Owners Must \r\n1) Visit our adoption location \r\n2) Complete an application. \r\n3) Have their application approved....",
+        "url": null
+      },
+      "social_media": {
+        "facebook": "http://www.facebook.com/poochheaven",
+        "twitter": null,
+        "youtube": null,
+        "instagram": "https://www.instagram.com/poochheaven/?hl=en",
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20311/20311-1.jpg?bust=2018-01-26+21%3A07%3A51&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20311/20311-1.jpg?bust=2018-01-26+21%3A07%3A51&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20311/20311-1.jpg?bust=2018-01-26+21%3A07%3A51&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20311/20311-1.jpg?bust=2018-01-26+21%3A07%3A51"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ca202"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ca202"
+        }
+      }
+    },
+    {
+      "id": "CA347",
+      "name": "Redwood Coast Humane Society",
+      "email": "redwoodcoasthumane@gmail.com",
+      "phone": "(707) 884-1304",
+      "address": {
+        "address1": "39151 S. Hwy 1",
+        "address2": null,
+        "city": "Gualala",
+        "state": "CA",
+        "postcode": "95445",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": "12 pm - 3 pm",
+        "saturday": "12 pm - 3 pm",
+        "sunday": "12 pm - 3 pm"
+      },
+      "url": "https://www.petfinder.com/member/us/ca/gualala/redwood-coast-humane-society-ca347/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": "http://redwoodcoasthumane.org",
+      "mission_statement": "MISSION: It is the mission of the Redwood Coast Humane Society to advocate for the welfare, rights, respect, and protection...",
+      "adoption": {
+        "policy": "Please review our adoption procedures at our website: http://redwoodcoasthumane.org\r\n\r\nOur facility: \r\nJake&#039;s Place (RCHS shelter, garden and office) \r\n39151 S....",
+        "url": "http://redwoodcoasthumane.org/pdf/Adoption_Questionnaire.pdf"
+      },
+      "social_media": {
+        "facebook": "https://www.facebook.com/RedwoodCoastHumaneSociety/",
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-3.jpg?bust=2018-02-17+19%3A20%3A37&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-3.jpg?bust=2018-02-17+19%3A20%3A37&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-3.jpg?bust=2018-02-17+19%3A20%3A37&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-3.jpg?bust=2018-02-17+19%3A20%3A37"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-6.jpg?bust=2018-01-26+23%3A46%3A36&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-6.jpg?bust=2018-01-26+23%3A46%3A36&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-6.jpg?bust=2018-01-26+23%3A46%3A36&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-6.jpg?bust=2018-01-26+23%3A46%3A36"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-1.jpg?bust=2018-02-17+19%3A09%3A09&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-1.jpg?bust=2018-02-17+19%3A09%3A09&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-1.jpg?bust=2018-02-17+19%3A09%3A09&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-1.jpg?bust=2018-02-17+19%3A09%3A09"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-2.jpg?bust=2018-02-17+19%3A09%3A09&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-2.jpg?bust=2018-02-17+19%3A09%3A09&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-2.jpg?bust=2018-02-17+19%3A09%3A09&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-2.jpg?bust=2018-02-17+19%3A09%3A09"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-5.jpg?bust=2018-02-17+19%3A18%3A54&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-5.jpg?bust=2018-02-17+19%3A18%3A54&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-5.jpg?bust=2018-02-17+19%3A18%3A54&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-5.jpg?bust=2018-02-17+19%3A18%3A54"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-4.jpg?bust=2018-02-17+19%3A20%3A38&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-4.jpg?bust=2018-02-17+19%3A20%3A38&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-4.jpg?bust=2018-02-17+19%3A20%3A38&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/20358/20358-4.jpg?bust=2018-02-17+19%3A20%3A38"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ca347"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ca347"
+        }
+      }
+    },
+    {
+      "id": "CA624",
+      "name": "Friendly Feline Rescue",
+      "email": "charlene.panish@gmail.com",
+      "phone": "(714) 343-7657",
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Aliso Viejo",
+        "state": "CA",
+        "postcode": "92656",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ca/aliso-viejo/friendly-feline-rescue-ca624/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ca624"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ca624"
+        }
+      }
+    },
+    {
+      "id": "CO95",
+      "name": "Friends of Retired Greyhounds",
+      "email": "info@friendsofretiredgreyhounds.org",
+      "phone": " ",
+      "address": {
+        "address1": "PO Box 29678",
+        "address2": null,
+        "city": "Thornton",
+        "state": "CO",
+        "postcode": "80229",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/co/thornton/friends-of-retired-greyhounds-co95/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/co95"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=co95"
+        }
+      }
+    },
+    {
+      "id": "CT164",
+      "name": "Farmington Animal Control",
+      "email": "BettcherB@Farmington-CT.org",
+      "phone": "(860) 675-2440",
+      "address": {
+        "address1": "319 New Britian Ave",
+        "address2": null,
+        "city": "Farmington",
+        "state": "CT",
+        "postcode": "06085",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ct/farmington/farmington-animal-control-ct164/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": "http://www.farmington-ct.org/departments/police-department/animal-control",
+      "mission_statement": "This is the official PetFinder page for Farmington (Connecticut) Animal Control. Please follow our Facebook page for most up to...",
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": "https://www.facebook.com/farmingtonpoliceCT/",
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ct164"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ct164"
+        }
+      }
+    },
+    {
+      "id": "GA502",
+      "name": "The Georgia Rat Rescue",
+      "email": "garatrescue@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Norcross",
+        "state": "GA",
+        "postcode": "30093",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ga/norcross/the-georgia-rat-rescue-ga502/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-1.jpg?bust=2017-06-26+20%3A35%3A33&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-1.jpg?bust=2017-06-26+20%3A35%3A33&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-1.jpg?bust=2017-06-26+20%3A35%3A33&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-1.jpg?bust=2017-06-26+20%3A35%3A33"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-2.jpg?bust=2017-06-26+20%3A35%3A33&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-2.jpg?bust=2017-06-26+20%3A35%3A33&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-2.jpg?bust=2017-06-26+20%3A35%3A33&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-2.jpg?bust=2017-06-26+20%3A35%3A33"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-3.jpg?bust=2017-06-26+20%3A35%3A34&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-3.jpg?bust=2017-06-26+20%3A35%3A34&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-3.jpg?bust=2017-06-26+20%3A35%3A34&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-3.jpg?bust=2017-06-26+20%3A35%3A34"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-4.jpg?bust=2017-06-26+20%3A35%3A34&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-4.jpg?bust=2017-06-26+20%3A35%3A34&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-4.jpg?bust=2017-06-26+20%3A35%3A34&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-4.jpg?bust=2017-06-26+20%3A35%3A34"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-5.jpg?bust=2017-06-26+20%3A35%3A34&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-5.jpg?bust=2017-06-26+20%3A35%3A34&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-5.jpg?bust=2017-06-26+20%3A35%3A34&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-5.jpg?bust=2017-06-26+20%3A35%3A34"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-6.jpg?bust=2017-06-26+20%3A35%3A35&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-6.jpg?bust=2017-06-26+20%3A35%3A35&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-6.jpg?bust=2017-06-26+20%3A35%3A35&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21282/21282-6.jpg?bust=2017-06-26+20%3A35%3A35"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ga502"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ga502"
+        }
+      }
+    },
+    {
+      "id": "IN12",
+      "name": "Humane Society of Hobart Inc.",
+      "email": "info@humanesocietyofhobart.org",
+      "phone": "(219) 942-0103",
+      "address": {
+        "address1": "2054 E. State Road 130",
+        "address2": "P.O. Box 108",
+        "city": "Hobart",
+        "state": "IN",
+        "postcode": "46342",
+        "country": "US"
+      },
+      "hours": {
+        "monday": "11:00 - 4:00 p.m.",
+        "tuesday": "11:00 - 4:00 p.m.",
+        "wednesday": "11:00 - 4:00 p.m.",
+        "thursday": "11:00 - 4:00 p.m.",
+        "friday": "11:00 - 4:00 p.m.",
+        "saturday": "11:00 - 5:00 p.m.",
+        "sunday": "12:00 - 5:00 p.m."
+      },
+      "url": "https://www.petfinder.com/member/us/in/hobart/humane-society-of-hobart-inc-in12/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": "http://www.humanesocietyofhobart.org/",
+      "mission_statement": null,
+      "adoption": {
+        "policy": "ADOPTION FEES:\r\nAll dogs and puppies : $150.00-175.00 includes first distemper shot(s), first bordatella shot(s), heartworm check, dewormer, voucher if...",
+        "url": null
+      },
+      "social_media": {
+        "facebook": "https://www.facebook.com/hobarthumanearea/",
+        "twitter": "https://twitter.com/HumaneSocHobart",
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21610/21610-1.jpg?bust=2017-12-21+02%3A29%3A49&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21610/21610-1.jpg?bust=2017-12-21+02%3A29%3A49&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21610/21610-1.jpg?bust=2017-12-21+02%3A29%3A49&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21610/21610-1.jpg?bust=2017-12-21+02%3A29%3A49"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/in12"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=in12"
+        }
+      }
+    },
+    {
+      "id": "IN250",
+      "name": "Mary Miller's Rescue",
+      "email": "fairydogmother07@gmail.com",
+      "phone": "(765) 881-0211",
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Muncie",
+        "state": "IN",
+        "postcode": "47302",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/in/muncie/mary-millers-rescue-in250/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-2.jpg?bust=2018-09-18+18%3A09%3A37&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-2.jpg?bust=2018-09-18+18%3A09%3A37&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-2.jpg?bust=2018-09-18+18%3A09%3A37&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-2.jpg?bust=2018-09-18+18%3A09%3A37"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-1.jpg?bust=2017-11-29+09%3A28%3A42&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-1.jpg?bust=2017-11-29+09%3A28%3A42&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-1.jpg?bust=2017-11-29+09%3A28%3A42&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-1.jpg?bust=2017-11-29+09%3A28%3A42"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-3.jpg?bust=2018-09-18+18%3A09%3A38&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-3.jpg?bust=2018-09-18+18%3A09%3A38&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-3.jpg?bust=2018-09-18+18%3A09%3A38&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-3.jpg?bust=2018-09-18+18%3A09%3A38"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-4.jpg?bust=2018-09-18+18%3A09%3A39&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-4.jpg?bust=2018-09-18+18%3A09%3A39&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-4.jpg?bust=2018-09-18+18%3A09%3A39&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21651/21651-4.jpg?bust=2018-09-18+18%3A09%3A39"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/in250"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=in250"
+        }
+      }
+    },
+    {
+      "id": "KS22",
+      "name": "Fort Riley Stray Animal Shelter",
+      "email": "nicole.p.storm.naf@mail.mil",
+      "phone": "(785) 239-6183",
+      "address": {
+        "address1": "224 Custer Avenue",
+        "address2": "66442",
+        "city": "Fort Riley",
+        "state": "KS",
+        "postcode": "66531",
+        "country": "US"
+      },
+      "hours": {
+        "monday": "10am - 6 pm",
+        "tuesday": "10am - 6 pm",
+        "wednesday": "closed",
+        "thursday": "10am - 6 pm",
+        "friday": "10am - 6 pm",
+        "saturday": "10am - 3pm",
+        "sunday": "10am - 3pm"
+      },
+      "url": "https://www.petfinder.com/member/us/ks/fort-riley/fort-riley-stray-animal-shelter-ks22/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": "https://www.facebook.com/FortRileyPets/",
+      "mission_statement": "The Fort Riley Animal Shelter recently was taken over by Fort Riley MWR. We are serving Fort Riley Residents and...",
+      "adoption": {
+        "policy": "The Fort Riley Stray Facility adopts Pets out to Military Personell and also Civilians. We also do out of State...",
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21796/21796-1.jpg?bust=2017-11-30+01%3A03%3A49&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21796/21796-1.jpg?bust=2017-11-30+01%3A03%3A49&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21796/21796-1.jpg?bust=2017-11-30+01%3A03%3A49&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21796/21796-1.jpg?bust=2017-11-30+01%3A03%3A49"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ks22"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ks22"
+        }
+      }
+    },
+    {
+      "id": "KY342",
+      "name": "Webster County Animal Services",
+      "email": "webstercodogpound@att.net",
+      "phone": "270-639-7034 ",
+      "address": {
+        "address1": "1919 HWY 132W",
+        "address2": null,
+        "city": "Dixon",
+        "state": "KY",
+        "postcode": "42409",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ky/dixon/webster-county-animal-services-ky342/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": "Low Cost Spay/Neuter Clinics\n\n \n\n\nSNIPZ (Spay Neuter Initiative Partners of Zion UCC)\n\n  Phone: (270) 212-9025\n\n       Email: SNIPZHenderson@gmail.com\n\n       Website: http://www.zionucchenderson.com/25401.html\n\n \n\n\nPay...",
+      "adoption": {
+        "policy": "Adoption fees: $95 in county\n\n(includes spay/neuter voucher, rabies vaccination and county dog tag)\n\n$30 out of state adoption\n\n \n\nWE...",
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21920/21920-1.jpg?bust=2017-11-29+09%3A56%3A20&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21920/21920-1.jpg?bust=2017-11-29+09%3A56%3A20&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21920/21920-1.jpg?bust=2017-11-29+09%3A56%3A20&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/21920/21920-1.jpg?bust=2017-11-29+09%3A56%3A20"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ky342"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ky342"
+        }
+      }
+    },
+    {
+      "id": "LA254",
+      "name": "Union Humane Society",
+      "email": "unionpets2@gmail.com",
+      "phone": "(318) 620-0062",
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Farmerville",
+        "state": "LA",
+        "postcode": "71241",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/la/farmerville/union-humane-society-la254/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": "We are a group of volunteers devoted to finding “furever” homes for animals in Union Parish. \r\n\r\nCurrently we don’t have...",
+      "adoption": {
+        "policy": "Our adoption fee is $50.00. If the animal is under 4 months old, you will receive a certificate to take...",
+        "url": null
+      },
+      "social_media": {
+        "facebook": "https://www.facebook.com/unionhumanesociety/",
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-2.jpg?bust=2019-04-20+02%3A58%3A28&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-2.jpg?bust=2019-04-20+02%3A58%3A28&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-2.jpg?bust=2019-04-20+02%3A58%3A28&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-2.jpg?bust=2019-04-20+02%3A58%3A28"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-1.jpg?bust=2019-03-28+13%3A45%3A07&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-1.jpg?bust=2019-03-28+13%3A45%3A07&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-1.jpg?bust=2019-03-28+13%3A45%3A07&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-1.jpg?bust=2019-03-28+13%3A45%3A07"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-3.jpg?bust=2019-03-28+13%3A45%3A08&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-3.jpg?bust=2019-03-28+13%3A45%3A08&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-3.jpg?bust=2019-03-28+13%3A45%3A08&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-3.jpg?bust=2019-03-28+13%3A45%3A08"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-4.jpg?bust=2019-03-28+13%3A45%3A08&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-4.jpg?bust=2019-03-28+13%3A45%3A08&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-4.jpg?bust=2019-03-28+13%3A45%3A08&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-4.jpg?bust=2019-03-28+13%3A45%3A08"
+        },
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-5.jpg?bust=2019-03-28+13%3A45%3A09&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-5.jpg?bust=2019-03-28+13%3A45%3A09&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-5.jpg?bust=2019-03-28+13%3A45%3A09&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22001/22001-5.jpg?bust=2019-03-28+13%3A45%3A09"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/la254"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=la254"
+        }
+      }
+    },
+    {
+      "id": "MA421",
+      "name": "Holbrook Animal Shelter",
+      "email": "lhedges@holbrookpolice.com",
+      "phone": "(781) 805-5105",
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Holbrook",
+        "state": "MA",
+        "postcode": "02343",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/ma/holbrook/holbrook-animal-shelter-ma421/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": "https://www.facebook.com/HolbrookAnimalShelterMA/",
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22163/22163-1.jpg?bust=2017-11-29+10%3A24%3A46&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22163/22163-1.jpg?bust=2017-11-29+10%3A24%3A46&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22163/22163-1.jpg?bust=2017-11-29+10%3A24%3A46&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22163/22163-1.jpg?bust=2017-11-29+10%3A24%3A46"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/ma421"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=ma421"
+        }
+      }
+    },
+    {
+      "id": "MI241",
+      "name": "Little Lion",
+      "email": "no.intake.adoption.only@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Dearborn",
+        "state": "MI",
+        "postcode": "48126",
+        "country": "US"
+      },
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      },
+      "url": "https://www.petfinder.com/member/us/mi/dearborn/little-lion-mi241/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": null,
+      "mission_statement": "Mission Statement: \r\nTo promote the humane treatment of all types of animals: To be the voice of the voiceless:\r\n\r\n\r\nhttps://sites.google.com/view/little-lions-corner/home",
+      "adoption": {
+        "policy": "The process of adoption is time-consuming, but it’s worth the time invested. The outcome is a win-win for everyone. Here...",
+        "url": "https://forms.gle/Wkgit2tugtJHfqTz9"
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [
+        {
+          "small": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22369/22369-1.jpg?bust=2017-11-12+01%3A50%3A23&width=100",
+          "medium": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22369/22369-1.jpg?bust=2017-11-12+01%3A50%3A23&width=300",
+          "large": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22369/22369-1.jpg?bust=2017-11-12+01%3A50%3A23&width=600",
+          "full": "https://s3.amazonaws.com/petfinder-us-east-1-petimages-prod/organization-photos/22369/22369-1.jpg?bust=2017-11-12+01%3A50%3A23"
+        }
+      ],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/mi241"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=mi241"
+        }
+      }
+    },
+    {
+      "id": "MO201",
+      "name": "Animal Shelter Of Linn County",
+      "email": "linncountyhs@yahoo.com",
+      "phone": "(660) 258-3322",
+      "address": {
+        "address1": "29205 Highway 11 South",
+        "address2": null,
+        "city": "Brookfield",
+        "state": "MO",
+        "postcode": "64628",
+        "country": "US"
+      },
+      "hours": {
+        "monday": "CLOSED",
+        "tuesday": "11 A.M. TO 4 P.M.",
+        "wednesday": "11 A.M. TO 4 P.M.",
+        "thursday": "11 A.M. TO 4 P.M.",
+        "friday": "11 A.M. TO 4 P.M.",
+        "saturday": "11 A.M. TO 1 P.M.",
+        "sunday": "CLOSED"
+      },
+      "url": "https://www.petfinder.com/member/us/mo/brookfield/animal-shelter-of-linn-county-mo201/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+      "website": "http://WWW.LINNCOUNTYHUMANESOCIETY.ORG",
+      "mission_statement": null,
+      "adoption": {
+        "policy": null,
+        "url": null
+      },
+      "social_media": {
+        "facebook": null,
+        "twitter": null,
+        "youtube": null,
+        "instagram": null,
+        "pinterest": null
+      },
+      "photos": [],
+      "distance": null,
+      "_links": {
+        "self": {
+          "href": "/v2/organizations/mo201"
+        },
+        "animals": {
+          "href": "/v2/animals?organization=mo201"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 11691,
+    "current_page": 1,
+    "total_pages": 585,
+    "_links": {
+      "next": {
+        "href": "/v2/organizations?page=2"
+      }
+    }
+  }
+}

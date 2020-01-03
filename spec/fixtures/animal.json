@@ -1,0 +1,104 @@
+{
+  "animal": {
+    "id": 47006807,
+    "organization_id": "OH682",
+    "url": "https://www.petfinder.com/dog/apollo-47006807/oh/ravenna/pinealope-animal-rescue-oh682/?referrer_id=3c24150d-f43b-43cd-95be-c1983da94486",
+    "type": "Dog",
+    "species": "Dog",
+    "breeds": {
+      "primary": "Anatolian Shepherd",
+      "secondary": "Blue Lacy",
+      "mixed": true,
+      "unknown": false
+    },
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "tertiary": null
+    },
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "coat": null,
+    "attributes": {
+      "spayed_neutered": true,
+      "house_trained": false,
+      "declawed": null,
+      "special_needs": false,
+      "shots_current": true
+    },
+    "environment": {
+      "children": true,
+      "dogs": true,
+      "cats": true
+    },
+    "tags": [],
+    "name": "Apollo",
+    "description": "Apollo born 10/26/19 will be ready for adoption after 1/6/2020.  Mom is an 84lb Anatolian Shepherd mix and dad is...",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136&width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136&width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/1/?bust=1577983136"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165&width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165&width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/2/?bust=1577983165"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202&width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202&width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/3/?bust=1577983202"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263&width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263&width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/4/?bust=1577983263"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336&width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336&width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/5/?bust=1577983336"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375&width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375&width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47006807/6/?bust=1577983375"
+      }
+    ],
+    "status": "adoptable",
+    "status_changed_at": "2020-01-02T16:49:50+0000",
+    "published_at": "2020-01-02T16:49:50+0000",
+    "distance": null,
+    "contact": {
+      "email": "pinealope.adopt@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Ravenna",
+        "state": "OH",
+        "postcode": "44266",
+        "country": "US"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "/v2/animals/47006807"
+      },
+      "type": {
+        "href": "/v2/types/dog"
+      },
+      "organization": {
+        "href": "/v2/organizations/oh682"
+      }
+    }
+  }
+}

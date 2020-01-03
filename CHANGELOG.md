@@ -1,6 +1,6 @@
 2.0.0
 -----
-* Update gem dependencies to latest versions
+* Rewrite for new petfinder API v2.0 which uses JSON and oauth2
 
 1.0.4
 -----
