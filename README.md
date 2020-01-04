@@ -7,7 +7,10 @@
 [gem]: https://rubygems.org/gems/petfinder
 [travis]: http://travis-ci.org/ehutzelman/petfinder
 
-Ruby gem wrapper for the [Petfinder API](http://www.petfinder.com/developers/api-docs).
+Ruby gem wrapper for the [Petfinder API v2.0](https://www.petfinder.com/developers/v2/docs).
+
+**NOTE**: The gem to support v1.0 of the API can be found on the [v1 branch](https://github.com/ehutzelman/petfinder/tree/v1), but be warned that
+Petfinder will be deprecating this v1 API in early 2020.
 
 ## Installation
 
@@ -25,7 +28,7 @@ Or install it yourself as:
 
 ## Get your API key
 
-Get your Petfinder API key at: http://www.petfinder.com/developers/api-key
+Get your Petfinder API key at: https://www.petfinder.com/developers
 
 ## Usage
 
@@ -45,70 +48,90 @@ petfinder = Petfinder::Client.new
 
 ## Examples
 
-#### Return a list of dogs in the "90210" zip code
+#### Return a list of dogs in the "90210" zip code (with pagination)
+A hash of parameters can be passed to this method, but none are required. You can find the full set of allowable parameters here:
+[Petfinder animals endpoint documentation](https://www.petfinder.com/developers/v2/docs/#get-animals).
 
 ```ruby
-pets = petfinder.find_pets('dog', '90210')
-pets.count
-# => "25"
+animals, pagination = petfinder.animals(type: 'dog', location: '90210', page: 1)
 
-pets.first.name
-# => "Petey"
+animals.first.name
+# => "Tyra"
+animals.first.photos.first.full
+# => "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47027518/2/?bust=1578168103"
+animals.first.organization_id
+# => "CA2350"
 
-pets.first.shelterid
-# => "CA123"
+animals.pagination.count_per_page
+# => "20"
+animals.pagination.total_pages
+# => "8853"
 ```
 
-#### Returning paged results
+#### Return a list of organizations (with pagination)
+A hash of parameters can be passed to this method, but none are required. You can find the full set of allowable parameters here:
+[Petfinder organizations endpoint documentation](https://www.petfinder.com/developers/v2/docs/#get-organizations).
 
 ```ruby
-petfinder.find_pets('dog', 77057, count: 25)
+organizations, pagination = petfinder.organizations({ location: '90210', limit: 5 })
 
-# page 2
-petfinder.find_pets('dog', 77057, count: 25, offset: 25)
+organizations.first.name
+# => "STAR Eco Station"
 
-# page 3
-petfinder.find_pets('dog', 77057, count: 25, offset: 50)
-
-# page 4
-petfinder.find_pets('dog', 77057, count: 25, offset: 75)
+organizations.pagination.count_per_page
+# => "5"
+organizations.pagination.total_count
+# => "265"
+organizations.pagination.total_pages
+# => "53"
 ```
 
-#### Return information about the shelter with id "CA123"
+#### Return information about the organization (shelter) with id "CA2350"
 
 ```ruby
-shelter = petfinder.shelter('CA123')
-shelter.name
-# => "Melrose Place SPCA"
+organization = petfinder.organization('CA2350')
+
+organization.name
+# => "Promise 4 Paws"
+
+organization.address.city
+# => "San Juan Capistrano"
 ```
 
-#### Other available methods
+#### Return a list of animal types
+```ruby
+types = petfinder.types
+
+types.first.name
+# => "Dog"
+
+types.first.colors
+# => ["Brown", "Black", "Yellow"]
+```
+
+#### Return a list of breeds for a given animal type
+```ruby
+breeds = petfinder.breeds('dog')
+
+breeds.length
+# => 275
+
+breeds.first.name
+# => "Affenpinscher"
+```
+
+## Handling errors
+A Petfinder::Error exception will be raised if the response fails with a bad response. This exception contains a hash of error information returned by Petfinder.
 
 ```ruby
-# Valid animal types: barnyard, bird, cat, dog, horse, pig, reptile, smallfurry
-breeds = petfinder.breeds(animal_type)
+animals, pagination = petfinder.animals(type: 'invalid_type')
+# => Petfinder::Error (Invalid Request: The request contains invalid parameters.)
 
-# Options available: animal, breed, size, sex, location, shelterid
-pet = petfinder.random_pet(options)
-pet = petfinder.pet(id)
+rescue Petfinder::Error => exception
 
-# Options available: breed, size, sex, age, offset, count
-pets = petfinder.find_pets(animal_type, location, options)
-
-# Options available: status, offset, count
-pets = shelter_pets(shelter_id, options)
-
-# Options available: name, offset, count
-shelters = petfinder.find_shelters(location, options)
-shelters = petfinder.find_shelters_by_breed(animal_type, breed)
-
-shelter = petfinder.shelter(shelter_id)
+exception.data
+# => {"type"=>"https://www.petfinder.com/developers/v2/docs/errors/ERR-00002/", "status"=>400, "title"=>"Invalid Request", "detail"=>"The request contains invalid parameters.", "invalid-params"=>[{"in"=>"query", "path"=>"type", "message"=>"invalid_type is not a valid animal type."}]}
 ```
-
-## TODO
-
-* Implement use of security token when Petfinder requires it
-* Support paging for results
 
 ## Contributing
 
@@ -120,7 +143,7 @@ shelter = petfinder.shelter(shelter_id)
 
 ## Copyright
 
-Copyright (c) 2010-2013 Eric Hutzelman.
+Copyright (c) 2010-2020 Eric Hutzelman.
 See [LICENSE][] for details.
 
 [license]: LICENSE.txt
