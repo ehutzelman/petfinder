@@ -62,9 +62,9 @@ animals.first.photos.first.full
 animals.first.organization_id
 # => "CA2350"
 
-animals.pagination.count_per_page
+pagination.count_per_page
 # => "20"
-animals.pagination.total_pages
+pagination.total_pages
 # => "8853"
 ```
 
@@ -78,11 +78,11 @@ organizations, pagination = petfinder.organizations({ location: '90210', limit: 
 organizations.first.name
 # => "STAR Eco Station"
 
-organizations.pagination.count_per_page
+pagination.count_per_page
 # => "5"
-organizations.pagination.total_count
+pagination.total_count
 # => "265"
-organizations.pagination.total_pages
+pagination.total_pages
 # => "53"
 ```
 
