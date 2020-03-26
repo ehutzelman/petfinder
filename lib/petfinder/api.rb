@@ -11,7 +11,6 @@ module Petfinder
     end
 
     def animal(id)
-      request("animals/#{id}")
       Mash.new(request("animals/#{id}")['animal'])
     end
 
